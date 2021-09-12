@@ -1,0 +1,667 @@
+[21-06-15 17:55:46] (AUTH) Authentication failed for user: from IP address: 41.191.229.22
+[21-06-15 17:56:01] (AUTH) Authentication successful for user:admin
+[21-06-15 18:02:23] (AUTH) Authentication successful for user:admin
+[21-06-15 18:06:05] (AUTH) Authentication successful for user:admin
+[21-06-15 18:06:22] (CONFIG - 1:admin) New device registered with uuid: a7dda28d7a3c762662571f928b6e42f993b818ff77d8eea2b7bf53cb34bfcbe3
+Data: {"uuid":"a7dda28d7a3c762662571f928b6e42f993b818ff77d8eea2b7bf53cb34bfcbe3","devicename":"testing","locationname":"Nairobi","locationid":"1","deviceid":"1"}
+[21-06-15 18:06:29] (AUTH) Authentication successful for user:admin
+[21-06-15 18:06:34] (AUTH) Authentication failed for user:Admin from IP address: 197.237.137.34
+[21-06-15 18:06:48] (AUTH) Authentication failed for user:Admin from IP address: 197.237.137.34
+[21-06-15 18:06:54] (AUTH) Authentication successful for user:admin
+[21-06-15 18:07:46] (AUTH) Authentication successful for user:admin
+[21-06-15 18:10:02] (AUTH) Authentication successful for user:admin
+[21-06-15 18:10:41] (USER - 1:admin) User added with id:
+Data: {"username":"sales","admin":0}
+[21-06-15 18:11:05] (AUTH) Authentication successful for user:sales
+[21-06-15 18:19:23] (AUTH) Authentication successful for user:sales
+[21-06-15 18:19:35] (AUTH) Authentication successful for user:sales
+[21-06-15 18:19:39] (AUTH) Authentication successful for user:admin
+[21-06-15 18:20:30] (AUTH) Authentication successful for user:sales
+[21-06-15 18:20:39] (AUTH) Authentication successful for user:admin
+[21-06-15 18:21:06] (CONFIG - 1:admin) New device registered with uuid: e0ca69548e76e3d809187065ce0fc988630108995f7b369887f7c8bba4044cc5
+Data: {"uuid":"e0ca69548e76e3d809187065ce0fc988630108995f7b369887f7c8bba4044cc5","deviceid":"1","locationid":"1","locationname":"Nairobi"}
+[21-06-15 18:21:25] (AUTH) Authentication successful for user:sales
+[21-06-15 18:22:22] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"Test Category"}
+[21-06-15 18:22:35] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"Test Supplier"}
+[21-06-15 18:23:23] (AUTH) Authentication successful for user:admin
+[21-06-15 18:25:43] (AUTH) Authentication successful for user:admin
+[21-06-15 18:30:06] (AUTH) Authentication failed for user:admin from IP address: 197.248.235.15
+[21-06-15 18:30:41] (AUTH) Authentication failed for user:admin from IP address: 197.248.235.15
+[21-06-15 18:31:03] (AUTH) Authentication successful for user:admin
+[21-06-15 18:32:20] (ITEM - 1:admin) Item added with id:1
+Data: {"code":"45645","qty":"1","name":"Test","alt_name":"Testing","description":"test product","taxid":"1","cost":"10","price":"20","wholesale_price":"15","supplierid":"1","categoryid":"1","type":"general","modifiers":[],"id":"1"}
+[21-06-15 18:32:54] (ITEM - 1:admin) Item added with id:2
+Data: {"code":"6001108049582","qty":"1","name":"mzinga","alt_name":"can","description":"sweet red","taxid":"1","cost":"1700","price":"2000","wholesale_price":"1900","supplierid":"0","categoryid":"0","type":"general","modifiers":[],"id":"2"}
+[21-06-15 18:35:15] (CONFIG - 1:admin) System configuration updated:general
+Data: {"version":"1.4.3","dateformat":"d\/m\/y","currencyformat":"KSh~2~.~,~0","accntype":"cash","bizname":"Wallace IT","biznumber":"9999 999 999","bizemail":"demo@wallacepos.com","bizaddress":"1 Some St","bizsuburb":"Someville","bizstate":"NSW","bizpostcode":"2000","bizcountry":"Australia","bizlogo":"\/assets\/images\/receipt-logo.png","bizicon":"\/icon.ico","gcontact":0,"altlabels":{"cash":"Cash","credit":"Credit","eftpos":"Eftpos","cheque":"Cheque","deposit":"Deposit","tendered":"Tendered","change":"Change","transaction-ref":"Transaction Ref","transaction-id":"","sale-time":"Sale Time","subtotal":"Subtotal","total":"Total","item":"Item","items":"Items","refund":"Refund","void-transaction":"Void Transaction"},"timezone":"Australia\/Sydney","feedserver_port":8080,"feedserver_proxy":true}
+[21-06-15 18:35:30] (CONFIG - 1:admin) System configuration updated:general
+Data: {"version":"1.4.3","dateformat":"d\/m\/y","currencyformat":"KSh~2~.~,~0","accntype":"cash","bizname":"Wallace IT","biznumber":"9999 999 999","bizemail":"demo@wallacepos.com","bizaddress":"1 Some St","bizsuburb":"Someville","bizstate":"NSW","bizpostcode":"2000","bizcountry":"Australia","bizlogo":"\/assets\/images\/receipt-logo.png","bizicon":"\/icon.ico","gcontact":0,"altlabels":{"cash":"Cash","credit":"Credit","eftpos":"Eftpos","cheque":"Cheque","deposit":"Deposit","tendered":"Tendered","change":"Change","transaction-ref":"Transaction Ref","transaction-id":"","sale-time":"Sale Time","subtotal":"Subtotal","total":"Total","item":"Item","items":"Items","refund":"Refund","void-transaction":"Void Transaction"},"timezone":"Australia\/Sydney","feedserver_port":8080,"feedserver_proxy":true}
+[21-06-15 18:36:55] (CONFIG - 1:admin) System configuration updated:general
+Data: {"version":"1.4.3","dateformat":"d\/m\/y","currencyformat":"KSh~2~.~,~0","accntype":"cash","bizname":"Wallace IT","biznumber":"9999 999 999","bizemail":"demo@wallacepos.com","bizaddress":"1 Some St","bizsuburb":"Someville","bizstate":"NSW","bizpostcode":"2000","bizcountry":"Australia","bizlogo":"\/assets\/images\/receipt-logo.png","bizicon":"\/icon.ico","gcontact":0,"altlabels":{"cash":"Cash","credit":"Credit","eftpos":"Eftpos","cheque":"Cheque","deposit":"Deposit","tendered":"Tendered","change":"Change","transaction-ref":"Transaction Ref","transaction-id":"","sale-time":"Sale Time","subtotal":"Subtotal","total":"Total","item":"Item","items":"Items","refund":"Refund","void-transaction":"Void Transaction"},"timezone":"Europe\/London","feedserver_port":8080,"feedserver_proxy":true}
+[21-06-15 09:37:30] (CONFIG - 1:admin) System configuration updated:general
+Data: {"version":"1.4.3","dateformat":"d\/m\/y","currencyformat":"KSh~2~.~,~0","accntype":"cash","bizname":"Wallace IT","biznumber":"9999 999 999","bizemail":"demo@wallacepos.com","bizaddress":"1 Some St","bizsuburb":"Someville","bizstate":"NSW","bizpostcode":"2000","bizcountry":"Australia","bizlogo":"\/assets\/images\/receipt-logo.png","bizicon":"\/icon.ico","gcontact":0,"altlabels":{"cash":"Cash","credit":"Credit","eftpos":"Eftpos","cheque":"Cheque","deposit":"Deposit","tendered":"Tendered","change":"Change","transaction-ref":"Transaction Ref","transaction-id":"","sale-time":"Sale Time","subtotal":"Subtotal","total":"Total","item":"Item","items":"Items","refund":"Refund","void-transaction":"Void Transaction"},"timezone":"Europe\/London","feedserver_port":8080,"feedserver_proxy":true}
+[21-06-15 09:40:01] (AUTH) Authentication successful for user:admin
+[21-06-15 09:44:59] (ITEM - 1:admin) Item added with id:3
+Data: {"code":"6161101604406","qty":"1","name":"tusker cider","alt_name":"can 500ml","description":"can","taxid":"1","cost":"160","price":"200","wholesale_price":"185","supplierid":"0","categoryid":"0","type":"general","modifiers":[],"id":"3"}
+[21-06-15 09:51:03] (AUTH) Authentication successful for user:admin
+[21-06-15 09:57:34] (CONFIG - 1:admin) New device added
+Data: {"name":"meru gatimene","locationid":"2","type":"general_register","ordertype":"terminal","orderdisplay":true,"kitchenid":null,"id":"2","locationname":"Meru Gatimene"}
+[21-06-15 09:58:06] (AUTH) Authentication successful for user:admin
+[21-06-15 09:58:21] (CONFIG - 1:admin) New device registered with uuid: 43f62e81e2e6584750062f5311fbd1f576367f887b9eab0d7ed6b6075a77e76c
+Data: {"uuid":"43f62e81e2e6584750062f5311fbd1f576367f887b9eab0d7ed6b6075a77e76c","deviceid":"2","locationid":"2","locationname":"Meru Gatimene"}
+[21-06-15 09:58:51] (AUTH) Authentication successful for user:sales
+[21-06-15 09:59:25] (SALE - 3:sales) Sale Processed with ref: 1623747564920-2-7970 (ID:1)
+Data: {"ref":"1623747564920-2-7970","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"160.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623747564920,"items":[{"ref":"d7fdc0a2","sitemid":"3","qty":1,"name":"tusker cider","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"can","cost":"160","unit_original":"200","alt_name":"can 500ml","id":"1"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"1","processdt":1623747564920}],"tax":"0.00","taxdata":{},"id":"1","dt":"2021-06-15 09:59:25","balance":0,"status":1}
+[21-06-15 10:04:35] (SALE - 3:sales) Sale Processed with ref: 1623747874963-2-2584 (ID:2)
+Data: {"ref":"1623747874963-2-2584","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"160.00","subtotal":"185.00","total":"185.00","numitems":1,"processdt":1623747874963,"items":[{"ref":"8d33cb48","sitemid":"3","qty":1,"name":"tusker cider","unit":"185.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"185.00","desc":"can","cost":"160","unit_original":"185","alt_name":"can 500ml","id":"2"}],"payments":[{"method":"cash","amount":"185.00","tender":"185.00","change":"0.00","id":"2","processdt":1623747874963}],"tax":"0.00","taxdata":{},"id":"2","dt":"2021-06-15 10:04:35","balance":0,"status":1}
+[21-06-15 10:26:40] (AUTH) Authentication successful for user:sales
+[21-06-15 12:16:58] (AUTH) Authentication successful for user:sales
+[21-06-15 12:17:34] (AUTH) Authentication successful for user:admin
+[21-06-15 12:18:25] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"BEERS"}
+[21-06-15 12:18:30] (CATEGORY - 1:admin) Category(s) deleted with id:1
+[21-06-15 12:18:37] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"WHISKY"}
+[21-06-15 12:18:43] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"GIN"}
+[21-06-15 12:18:50] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"SPIRITS"}
+[21-06-15 12:19:17] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"BRANDY"}
+[21-06-15 12:19:22] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"WATER"}
+[21-06-15 12:19:31] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"ENERGY DRINKS"}
+[21-06-15 12:19:43] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"LIME"}
+[21-06-15 12:19:48] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"SODA"}
+[21-06-15 12:19:56] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"DELMONTE"}
+[21-06-15 12:20:01] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"WINES"}
+[21-06-15 12:20:22] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"CIGARRETTE"}
+[21-06-15 12:20:29] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"CONDOM"}
+[21-06-15 12:21:48] (ITEM - 1:admin) Item(s) deleted with id:2
+[21-06-15 12:21:52] (ITEM - 1:admin) Item(s) deleted with id:1
+[21-06-15 12:21:56] (ITEM - 1:admin) Item(s) deleted with id:3
+[21-06-15 12:25:45] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"VODKA"}
+[21-06-15 12:26:40] (SUPPLIER - 1:admin) Supplier(s) deleted with id:1
+[21-06-15 12:26:56] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"EABL"}
+[21-06-15 12:27:02] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"KWAL"}
+[21-06-15 12:27:10] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"GATHURU"}
+[21-06-15 12:27:23] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"COCACOLA"}
+[21-06-15 12:27:55] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"TWO COUSINS DISTILLERS"}
+[21-06-15 12:28:05] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"LONDON DISTILLERS"}
+[21-06-15 12:28:30] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"INTERNATIONAL"}
+[21-06-15 12:29:29] (ITEM - 1:admin) Item added with id:4
+Data: {"code":"5010103937009","qty":"1","name":"CIROC","alt_name":"","description":"BLUE","taxid":"1","cost":"3333.33","price":"4000","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"4"}
+[21-06-15 12:30:25] (ITEM - 1:admin) Item(s) deleted with id:2
+[21-06-15 12:31:33] (ITEM - 1:admin) Item added with id:5
+Data: {"code":"5000281026626","qty":"1","name":"SINGLETON","alt_name":"","description":"15 years OLD","taxid":"1","cost":"5083.33","price":"6300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"5"}
+[21-06-15 12:31:53] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"4","locationid":"2","amount":"1"}
+[21-06-15 12:32:10] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"5","locationid":"2","amount":"1"}
+[21-06-15 12:34:28] (ITEM - 1:admin) Item added with id:6
+Data: {"code":"5000267134338","qty":"1","name":"JONIE WALKER GREEN","alt_name":"","description":"15 years OLD","taxid":"1","cost":"5166.67","price":"6300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"6"}
+[21-06-15 12:36:21] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"CHAMPAGNE"}
+[21-06-15 12:37:18] (ITEM - 1:admin) Item added with id:7
+Data: {"code":"3185370653104","qty":"1","name":"MOET &amp; CHANDON","alt_name":"","description":"CHAMPAGNE","taxid":"1","cost":"6500","price":"7600","wholesale_price":"0","supplierid":"4","categoryid":"16","type":"general","modifiers":[],"id":"7"}
+[21-06-15 12:39:29] (ITEM - 1:admin) Item added with id:8
+Data: {"code":"5000267178431","qty":"1","name":"JOHNIE WALKER","alt_name":"","description":"A SONG OF FIRE","taxid":"1","cost":"2702.50","price":"4000","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"8"}
+[21-06-15 12:41:02] (ITEM - 1:admin) Item added with id:9
+Data: {"code":"5000281021621","qty":"1","name":"SINGLETON","alt_name":"","description":"12 YEARS OLD","taxid":"1","cost":"3500","price":"4350","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"9"}
+[21-06-15 12:43:08] (ITEM - 1:admin) Item added with id:10
+Data: {"code":"5000281028620","qty":"1","name":"SINGLETON","alt_name":"","description":"18 YEARS OLD","taxid":"1","cost":"6666.67","price":"8500","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"10"}
+[21-06-15 12:43:21] (ITEM - 1:admin) Item updated with id:9
+Data: {"id":"9","code":"5000281021621","qty":"1","name":"SINGLETON","alt_name":"","description":"12 YEARS OLD","taxid":"1","cost":"3500","price":"4350","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 12:43:27] (ITEM - 1:admin) Item updated with id:5
+Data: {"id":"5","code":"5000281026626","qty":"1","name":"SINGLETON","alt_name":"","description":"15 years OLD","taxid":"1","cost":"5083.33","price":"6300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 12:43:53] (ITEM - 1:admin) Item updated with id:5
+Data: {"id":"5","code":"5000281026626","qty":"1","name":"SINGLETON","alt_name":"","description":"15 years OLD","taxid":"1","cost":"5083.33","price":"6300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 12:44:06] (ITEM - 1:admin) Item updated with id:6
+Data: {"id":"6","code":"5000267134338","qty":"1","name":"JONIE WALKER GREEN","alt_name":"","description":"15 years OLD","taxid":"1","cost":"5166.67","price":"6300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 12:44:16] (ITEM - 1:admin) Item updated with id:7
+Data: {"id":"7","code":"3185370653104","qty":"1","name":"MOET &amp; CHANDON","alt_name":"","description":"CHAMPAGNE","taxid":"1","cost":"6500","price":"7600","wholesale_price":"0","supplierid":"4","categoryid":"16","type":"general","modifiers":[]}
+[21-06-15 12:46:10] (ITEM - 1:admin) Item added with id:11
+Data: {"code":"5000267116419","qty":"1","name":"JOHNIE WALKER","alt_name":"","description":"DOUBLE BLACK","taxid":"1","cost":"4167","price":"5300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"11"}
+[21-06-15 12:47:49] (ITEM - 1:admin) Item added with id:12
+Data: {"code":"5010103999991","qty":"1","name":"CIROC","alt_name":"","description":"RED BERRY","taxid":"1","cost":"3333.33","price":"4200","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"12"}
+[21-06-15 12:48:15] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"6","locationid":"2","amount":"1"}
+[21-06-15 12:48:23] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"7","locationid":"2","amount":"1"}
+[21-06-15 12:48:30] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"8","locationid":"2","amount":"1"}
+[21-06-15 12:48:41] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"9","locationid":"2","amount":"1"}
+[21-06-15 12:48:46] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"10","locationid":"2","amount":"1"}
+[21-06-15 12:48:54] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"11","locationid":"2","amount":"1"}
+[21-06-15 12:49:00] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"12","locationid":"2","amount":"1"}
+[21-06-15 12:51:16] (ITEM - 1:admin) Item added with id:13
+Data: {"code":"082184090442","qty":"2","name":"JACK DANIELS 1LTR","alt_name":"","description":"1 LTR","taxid":"1","cost":"2700","price":"3150","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"13"}
+[21-06-15 12:53:06] (ITEM - 1:admin) Item added with id:14
+Data: {"code":"082184090473","qty":"3","name":"JACK DANIELS 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"2450","price":"2800","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"14"}
+[21-06-15 12:55:15] (ITEM - 1:admin) Item added with id:15
+Data: {"code":"4067700014559","qty":"2","name":"JAGERMEISTER","alt_name":"","description":"700LTR","taxid":"1","cost":"1800","price":"2150","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"15"}
+[21-06-15 12:57:05] (ITEM - 1:admin) Item added with id:16
+Data: {"code":"5010106111451","qty":"2","name":"BALLANTINES","alt_name":"","description":"SCOTCH WHISKY","taxid":"1","cost":"1650","price":"1800","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"16"}
+[21-06-15 12:58:39] (ITEM - 1:admin) Item added with id:17
+Data: {"code":"5010327000176","qty":"1","name":"GLENFIDDICH 12YRS","alt_name":"","description":"SCOTCH WHISKY 12 YRS","taxid":"1","cost":"3500","price":"4150","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"17"}
+[21-06-15 13:03:17] (ITEM - 1:admin) Item added with id:18
+Data: {"code":"5010327363219","qty":"1","name":"GLENFIDDICH 15YRS","alt_name":"","description":" SINGLE MALT SCOTCH WHISKY 15 YRS","taxid":"1","cost":"7500","price":"8100","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"18"}
+[21-06-15 13:03:56] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"DORIS"}
+[21-06-15 13:04:26] (ITEM - 1:admin) Item updated with id:11
+Data: {"id":"11","code":"5000267116419","qty":"1","name":"JOHNIE WALKER DOUBLE BLACK","alt_name":"","description":"DOUBLE BLACK","taxid":"1","cost":"4167","price":"5300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 13:04:39] (ITEM - 1:admin) Item updated with id:8
+Data: {"id":"8","code":"5000267178431","qty":"1","name":"JOHNIE WALKER SONG OF FIRE","alt_name":"","description":"A SONG OF FIRE","taxid":"1","cost":"2702.50","price":"4000","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 13:04:51] (ITEM - 1:admin) Item updated with id:4
+Data: {"id":"4","code":"5010103937009","qty":"1","name":"CIROC BLUE","alt_name":"","description":"BLUE","taxid":"1","cost":"3333.33","price":"4000","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[]}
+[21-06-15 13:05:01] (ITEM - 1:admin) Item updated with id:12
+Data: {"id":"12","code":"5010103999991","qty":"1","name":"CIROC RED BERRY","alt_name":"","description":"RED BERRY","taxid":"1","cost":"3333.33","price":"4200","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 13:07:13] (ITEM - 1:admin) Item added with id:19
+Data: {"code":"6161100421561","qty":"6","name":"BEST GIN","alt_name":"","description":"LONDON DRY GIN","taxid":"1","cost":"650","price":"750","wholesale_price":"0","supplierid":"4","categoryid":"4","type":"general","modifiers":[],"id":"19"}
+[21-06-15 13:14:43] (ITEM - 1:admin) Item added with id:20
+Data: {"code":"5000289020701","qty":"1","name":"GORDONS DRY GIN","alt_name":"","description":"LONDON DRY GIN","taxid":"1","cost":"1750","price":"2150","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"20"}
+[21-06-15 13:16:06] (ITEM - 1:admin) Item added with id:21
+Data: {"code":"5000289929417","qty":"1","name":"GORDONS PINK GIN","alt_name":"","description":"PINK","taxid":"1","cost":"1417","price":"1750","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"21"}
+[21-06-15 13:20:06] (ITEM - 1:admin) Item added with id:22
+Data: {"code":"5000291020706","qty":"1","name":"TANQUERAY DRY GIN","alt_name":"","description":"DRY","taxid":"1","cost":"2000","price":"2500","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"22"}
+[21-06-15 13:24:48] (ITEM - 1:admin) Item added with id:23
+Data: {"code":"3245995960015","qty":"3","name":"HENNESSY","alt_name":"","description":"COGNAC","taxid":"1","cost":"3750","price":"","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"23"}
+[21-06-15 13:29:11] (ITEM - 1:admin) Item added with id:24
+Data: {"code":"6161101603324","qty":"54","name":"SMIRNOFF GUARANA","alt_name":"","description":"GUARANA","taxid":"1","cost":"142.625","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"24"}
+[21-06-15 13:31:49] (ITEM - 1:admin) Item added with id:25
+Data: {"code":"6161101604703","qty":"24","name":"SMIRNOFF BLACK ICE","alt_name":"","description":"BLACK ICE","taxid":"1","cost":"142.625","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"25"}
+[21-06-15 13:34:09] (ITEM - 1:admin) Item updated with id:23
+Data: {"id":"23","code":"3245995960015","qty":"3","name":"HENNESSY","alt_name":"","description":"COGNAC","taxid":"1","cost":"3750","price":"4300","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 13:34:37] (ITEM - 1:admin) Item updated with id:24
+Data: {"id":"24","code":"6161101603324","qty":"96","name":"SMIRNOFF GUARANA","alt_name":"","description":"GUARANA","taxid":"1","cost":"142.625","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[]}
+[21-06-15 13:37:25] (ITEM - 1:admin) Item added with id:26
+Data: {"code":"5000267013626","qty":"2","name":"JOHNNIE WALKER RED 1LTR","alt_name":"","description":"1 LTR","taxid":"1","cost":"1669.58","price":"2500","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"26"}
+[21-06-15 13:39:21] (ITEM - 1:admin) Item added with id:27
+Data: {"code":"5000267014074","qty":"6","name":"JOHNNIE WALKER RED 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1336.08","price":"1850","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"27"}
+[21-06-15 13:40:44] (ITEM - 1:admin) Item added with id:28
+Data: {"code":"5000267024004","qty":"6","name":"JOHNNIE WALKER BLACK 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"2520","price":"3600","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"28"}
+[21-06-15 13:41:31] (ITEM - 1:admin) Item added with id:29
+Data: {"code":"5000267023625","qty":"2","name":"JOHNNIE WALKER BLACK 1LTR","alt_name":"","description":"1 LTR","taxid":"1","cost":"3168.92","price":"4600","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"29"}
+[21-06-15 13:43:48] (ITEM - 1:admin) Item added with id:30
+Data: {"code":"5011007003029","qty":"3","name":"JAMESON 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1800","price":"2000","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"30"}
+[21-06-15 13:44:49] (ITEM - 1:admin) Item added with id:31
+Data: {"code":"5011007003227","qty":"3","name":"JAMESON 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"2350","price":"2500","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"31"}
+[21-06-15 13:45:22] (ITEM - 1:admin) Item updated with id:31
+Data: {"id":"31","code":"5011007003227","qty":"2","name":"JAMESON 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"2350","price":"2500","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 13:46:50] (ITEM - 1:admin) Item added with id:32
+Data: {"code":"5000267014609","qty":"4","name":"JOHNNIE WALKER RED 375ML","alt_name":"","description":"375ML","taxid":"1","cost":"816.67","price":"1000","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"32"}
+[21-06-15 13:48:03] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"RUM"}
+[21-06-15 13:48:45] (ITEM - 1:admin) Item added with id:33
+Data: {"code":"89000557","qty":"3","name":"OLD MONK ","alt_name":"","description":"RUM","taxid":"1","cost":"900","price":"1000","wholesale_price":"0","supplierid":"4","categoryid":"18","type":"general","modifiers":[],"id":"33"}
+[21-06-15 13:49:03] (SUPPLIER - 1:admin) Supplier added with id:
+Data: {"name":"DORIS"}
+[21-06-15 13:49:16] (CATEGORY - 1:admin) Category(s) deleted with id:17
+[21-06-15 13:49:18] (AUTH) Authentication successful for user:admin
+[21-06-15 13:52:39] (ITEM - 1:admin) Item added with id:34
+Data: {"code":"024000224556","qty":"3","name":"DELMONTE PINEAPPLE","alt_name":"","description":"PINEAPPLE","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[],"id":"34"}
+[21-06-15 13:53:46] (ITEM - 1:admin) Item added with id:35
+Data: {"code":"024000150138","qty":"2","name":"DELMONTE MIXED BERRIES","alt_name":"","description":"MIXED BERRIES","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[],"id":"35"}
+[21-06-15 13:55:12] (ITEM - 1:admin) Item added with id:36
+Data: {"code":"024000150152","qty":"7","name":"DELMONTE MANGO","alt_name":"","description":"MANGO","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[],"id":"36"}
+[21-06-15 13:55:25] (ITEM - 1:admin) Item updated with id:35
+Data: {"id":"35","code":"024000150138","qty":"3","name":"DELMONTE MIXED BERRIES","alt_name":"","description":"MIXED BERRIES","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[]}
+[21-06-15 13:56:34] (ITEM - 1:admin) Item added with id:37
+Data: {"code":"024000150121","qty":"3","name":"DELMONTE TROPICAL","alt_name":"","description":"TROPICAL","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[],"id":"37"}
+[21-06-15 13:57:41] (ITEM - 1:admin) Item added with id:38
+Data: {"code":"024000224532","qty":"3","name":"DELMONTE MANGO PINEAPPLE","alt_name":"","description":"MANGO PINEAPPLE","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[],"id":"38"}
+[21-06-15 13:58:13] (ITEM - 1:admin) Item added with id:39
+Data: {"code":"024000150053","qty":"4","name":"DELMONTE APPLE","alt_name":"","description":"APPLE","taxid":"1","cost":"195","price":"250","wholesale_price":"0","supplierid":"4","categoryid":"11","type":"general","modifiers":[],"id":"39"}
+[21-06-15 14:05:39] (ITEM - 1:admin) Item added with id:40
+Data: {"code":"54491472","qty":"24","name":"COCACOLA 500ML","alt_name":"","description":"500ML","taxid":"1","cost":"52.7","price":"80","wholesale_price":"0","supplierid":"5","categoryid":"10","type":"general","modifiers":[],"id":"40"}
+[21-06-15 14:09:55] (ITEM - 1:admin) Item added with id:41
+Data: {"code":"6161102050035","qty":"12","name":"HIGHLANDS 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"41.67","price":"100","wholesale_price":"0","supplierid":"5","categoryid":"7","type":"general","modifiers":[],"id":"41"}
+[21-06-15 14:11:05] (ITEM - 1:admin) Item added with id:42
+Data: {"code":"5449000098764","qty":"12","name":"DASANI 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"45.83","price":"100","wholesale_price":"0","supplierid":"5","categoryid":"7","type":"general","modifiers":[],"id":"42"}
+[21-06-15 14:12:05] (ITEM - 1:admin) Item added with id:43
+Data: {"code":"6164001910028","qty":"12","name":"AQUA-CHIL 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"29.16","price":"100","wholesale_price":"0","supplierid":"5","categoryid":"7","type":"general","modifiers":[],"id":"43"}
+[21-06-15 14:13:15] (ITEM - 1:admin) Item added with id:44
+Data: {"code":"5060466516632","qty":"24","name":"POWER PLAY","alt_name":"","description":"ENERGY","taxid":"1","cost":"41.6","price":"50","wholesale_price":"0","supplierid":"5","categoryid":"8","type":"general","modifiers":[],"id":"44"}
+[21-06-15 14:15:42] (ITEM - 1:admin) Item added with id:45
+Data: {"code":"6161101602433","qty":"24","name":"SNAPP","alt_name":"","description":"BEER","taxid":"1","cost":"131.16","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"45"}
+[21-06-15 14:19:14] (ITEM - 1:admin) Item added with id:46
+Data: {"code":"6161100421691","qty":"12","name":"CASA BUENA SWEET RED","alt_name":"","description":"SWEET RED","taxid":"1","cost":"475","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"46"}
+[21-06-15 14:20:46] (ITEM - 1:admin) Item added with id:47
+Data: {"code":"6161100420083","qty":"3","name":"CAPRICE DRY WHITE","alt_name":"","description":"DRY WHITE","taxid":"1","cost":"545","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"47"}
+[21-06-15 14:21:36] (ITEM - 1:admin) Item added with id:48
+Data: {"code":"6161100420076","qty":"1","name":"CAPRICE DRY RED","alt_name":"","description":"DRY RED","taxid":"1","cost":"545","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"48"}
+[21-06-15 14:21:59] (ITEM - 1:admin) Item added with id:49
+Data: {"code":"6161100421271","qty":"3","name":"CAPRICE SWEET RED","alt_name":"","description":"SWEETRED","taxid":"1","cost":"545","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"49"}
+[21-06-15 14:22:36] (ITEM - 1:admin) Item added with id:50
+Data: {"code":"6161100421288","qty":"3","name":"CAPRICE SWEET WHITE","alt_name":"","description":"SWEET WHITE","taxid":"1","cost":"545","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"50"}
+[21-06-15 14:24:23] (ITEM - 1:admin) Item added with id:51
+Data: {"code":"6001108049582","qty":"3","name":"4TH STREET SWEET RED","alt_name":"","description":"RED","taxid":"1","cost":"640","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"51"}
+[21-06-15 14:26:27] (ITEM - 1:admin) Item added with id:52
+Data: {"code":"6002269000566","qty":"3","name":"4 COUSINS SWEET RED","alt_name":"","description":"RED","taxid":"1","cost":"640","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"52"}
+[21-06-15 14:27:10] (ITEM - 1:admin) Item added with id:53
+Data: {"code":"6002269000559","qty":"3","name":"4 COUSINS SWEET WHITE","alt_name":"","description":"SWEET WHITE","taxid":"1","cost":"640","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"53"}
+[21-06-15 14:29:08] (ITEM - 1:admin) Item added with id:54
+Data: {"code":"6001108049599","qty":"3","name":"4TH STREET SWEET WHITE","alt_name":"","description":"SWEET WHITE","taxid":"1","cost":"640","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"54"}
+[21-06-15 14:36:11] (ITEM - 1:admin) Item added with id:55
+Data: {"code":"6001496301804","qty":"3","name":"CELLAR CASK RED","alt_name":"","description":"RED","taxid":"1","cost":"730","price":"800","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"55"}
+[21-06-15 14:36:40] (ITEM - 1:admin) Item added with id:56
+Data: {"code":"6001496301705","qty":"3","name":"CELLAR CASK WHITE","alt_name":"","description":"WHITE","taxid":"1","cost":"730","price":"800","wholesale_price":"0","supplierid":"3","categoryid":"12","type":"general","modifiers":[],"id":"56"}
+[21-06-15 14:37:04] (CATEGORY - 1:admin) Category added with id:
+Data: {"name":"CREAM"}
+[21-06-15 14:39:13] (ITEM - 1:admin) Item added with id:57
+Data: {"code":"6161101130424","qty":"6","name":"V&amp;A 750ML","alt_name":"","description":"CREAM","taxid":"1","cost":"544","price":"750","wholesale_price":"0","supplierid":"2","categoryid":"19","type":"general","modifiers":[],"id":"57"}
+[21-06-15 14:40:46] (ITEM - 1:admin) Item added with id:58
+Data: {"code":"5011013100132","qty":"1","name":"BAILEYS 750ML IRISH","alt_name":"","description":"CREAM","taxid":"1","cost":"1720","price":"2200","wholesale_price":"0","supplierid":"2","categoryid":"19","type":"general","modifiers":[],"id":"58"}
+[21-06-15 14:42:06] (ITEM - 1:admin) Item added with id:59
+Data: {"code":"5011013934386","qty":"3","name":"BAILEYS 350MLDELIGHT","alt_name":"","description":"CREAM","taxid":"1","cost":"442","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"19","type":"general","modifiers":[],"id":"59"}
+[21-06-15 14:42:28] (ITEM - 1:admin) Item updated with id:59
+Data: {"id":"59","code":"5011013934386","qty":"3","name":"BAILEYS 350ML DELIGHT","alt_name":"","description":"CREAM","taxid":"1","cost":"442","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"19","type":"general","modifiers":[]}
+[21-06-15 14:44:32] (ITEM - 1:admin) Item added with id:60
+Data: {"code":"6008835000930","qty":"6","name":"LIME JUICE","alt_name":"","description":"LIME","taxid":"1","cost":"190","price":"200","wholesale_price":"0","supplierid":"4","categoryid":"9","type":"general","modifiers":[],"id":"60"}
+[21-06-15 14:46:34] (ITEM - 1:admin) Item added with id:61
+Data: {"code":"6008835000947","qty":"6","name":"LIME JUICE 1.2LTR","alt_name":"","description":"LIME","taxid":"1","cost":"190","price":"200","wholesale_price":"0","supplierid":"4","categoryid":"9","type":"general","modifiers":[],"id":"61"}
+[21-06-15 14:46:56] (ITEM - 1:admin) Item updated with id:61
+Data: {"id":"61","code":"6008835000947","qty":"6","name":"LIME JUICE 1.5LTR","alt_name":"","description":"LIME","taxid":"1","cost":"190","price":"200","wholesale_price":"0","supplierid":"4","categoryid":"9","type":"general","modifiers":[]}
+[21-06-15 14:47:16] (ITEM - 1:admin) Item updated with id:60
+Data: {"id":"60","code":"6008835000930","qty":"6","name":"LIME JUICE","alt_name":"","description":"LIME","taxid":"1","cost":"130","price":"150","wholesale_price":"0","supplierid":"4","categoryid":"9","type":"general","modifiers":[]}
+[21-06-15 14:49:19] (ITEM - 1:admin) Item added with id:62
+Data: {"code":"5010314750008","qty":"3","name":"FAMOUS GROUSE","alt_name":"","description":"SCOTCH WHISKY","taxid":"1","cost":"1350","price":"1700","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"62"}
+[21-06-15 14:52:21] (ITEM - 1:admin) Item added with id:63
+Data: {"code":"088544019054","qty":"3","name":"SOUTHERN COMFORT 750ML","alt_name":"","description":"SPIRIT WHISKY","taxid":"1","cost":"1600","price":"1800","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"63"}
+[21-06-15 14:54:00] (ITEM - 1:admin) Item added with id:64
+Data: {"code":"8902146010313","qty":"2","name":"WHITE HALL FIRE CINNAMON 1LTR","alt_name":"","description":"WHISKY","taxid":"1","cost":"830","price":"900","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"64"}
+[21-06-15 14:54:41] (ITEM - 1:admin) Item added with id:65
+Data: {"code":"8902146014717","qty":"1","name":"WHITE HALL FIRE HONEY 1LTR","alt_name":"","description":"WHISKY","taxid":"1","cost":"830","price":"900","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"65"}
+[21-06-15 14:56:52] (ITEM - 1:admin) Item added with id:66
+Data: {"code":"50196081","qty":"3","name":"BLACK&amp;WHITE 1LTR","alt_name":"","description":"WHISKY","taxid":"1","cost":"1120","price":"1500","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"66"}
+[21-06-15 14:57:46] (ITEM - 1:admin) Item added with id:67
+Data: {"code":"5000196004665","qty":"12","name":"BLACK&amp;WHITE 750ML","alt_name":"","description":"WHISKY","taxid":"1","cost":"840","price":"1150","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"67"}
+[21-06-15 14:59:25] (ITEM - 1:admin) Item added with id:68
+Data: {"code":"50196166","qty":"6","name":"BLACK&amp;WHITE 350ML","alt_name":"","description":"WHISKY","taxid":"1","cost":"440","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"68"}
+[21-06-15 15:03:45] (ITEM - 1:admin) Item added with id:69
+Data: {"code":"5010752000345","qty":"3","name":"WILLIAM LAWSON 1LTR","alt_name":"","description":"WHISKY","taxid":"1","cost":"1430","price":"1600","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"69"}
+[21-06-15 15:07:08] (ITEM - 1:admin) Item added with id:70
+Data: {"code":"5010752000321","qty":"6","name":"WILLIAM LAWSON 750ML","alt_name":"","description":"WHISKY","taxid":"1","cost":"1080","price":"1200","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"70"}
+[21-06-15 15:07:20] (ITEM - 1:admin) Item updated with id:69
+Data: {"id":"69","code":"5010752000345","qty":"3","name":"WILLIAM LAWSON 1LTR","alt_name":"","description":"WHISKY","taxid":"1","cost":"1430","price":"1600","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:17:17] (ITEM - 1:admin) Item added with id:71
+Data: {"code":"3800032010292","qty":"3","name":"BLACK RAM","alt_name":"","description":"WHISKY","taxid":"1","cost":"950","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"71"}
+[21-06-15 15:17:52] (ITEM - 1:admin) Item updated with id:71
+Data: {"id":"71","code":"3800032010292","qty":"2","name":"BLACK RAM","alt_name":"","description":"WHISKY","taxid":"1","cost":"950","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:20:43] (ITEM - 1:admin) Item updated with id:71
+Data: {"id":"71","code":"3800032010292","qty":"2","name":"BLACK RAM","alt_name":"","description":"WHISKY","taxid":"1","cost":"850","price":"950","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:23:12] (ITEM - 1:admin) Item added with id:72
+Data: {"code":"3800032070302","qty":"2","name":"BLACK RAM 750ML","alt_name":"","description":"WHISKY","taxid":"1","cost":"750","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"72"}
+[21-06-15 15:25:09] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"9","locationid":"2","amount":"1"}
+[21-06-15 15:25:23] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"10","locationid":"2","amount":"1"}
+[21-06-15 15:25:31] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"11","locationid":"2","amount":"1"}
+[21-06-15 15:26:10] (ITEM - 1:admin) Item updated with id:5
+Data: {"id":"5","code":"5000281026626","qty":"1","name":"SINGLETON 15YRS","alt_name":"","description":"15 years OLD","taxid":"1","cost":"5083.33","price":"6300","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:26:22] (ITEM - 1:admin) Item updated with id:10
+Data: {"id":"10","code":"5000281028620","qty":"1","name":"SINGLETON 18YRS","alt_name":"","description":"18 YEARS OLD","taxid":"1","cost":"6666.67","price":"8500","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:26:31] (ITEM - 1:admin) Item updated with id:9
+Data: {"id":"9","code":"5000281021621","qty":"1","name":"SINGLETON 12YRS","alt_name":"","description":"12 YEARS OLD","taxid":"1","cost":"3500","price":"4350","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:27:46] (ITEM - 1:admin) Item updated with id:8
+Data: {"id":"8","code":"5000267178431","qty":"1","name":"JOHNIE WALKER SONG OF FIRE","alt_name":"","description":"A SONG OF FIRE","taxid":"1","cost":"2702.50","price":"4000","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 15:28:51] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"13","locationid":"2","amount":"2"}
+[21-06-15 15:29:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"14","locationid":"2","amount":"3"}
+[21-06-15 15:29:31] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"15","locationid":"2","amount":"2"}
+[21-06-15 15:29:49] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"16","locationid":"2","amount":"2"}
+[21-06-15 15:30:00] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"17","locationid":"2","amount":"1"}
+[21-06-15 15:30:05] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"18","locationid":"2","amount":"1"}
+[21-06-15 15:31:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"19","locationid":"2","amount":"6"}
+[21-06-15 15:31:28] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"20","locationid":"2","amount":"1"}
+[21-06-15 15:31:42] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"21","locationid":"2","amount":"1"}
+[21-06-15 15:31:52] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"22","locationid":"2","amount":"1"}
+[21-06-15 15:32:10] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"22","locationid":"2","amount":"1"}
+[21-06-15 15:32:24] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"23","locationid":"2","amount":"3"}
+[21-06-15 15:32:51] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"24","locationid":"2","amount":"96"}
+[21-06-15 15:33:00] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"25","locationid":"2","amount":"24"}
+[21-06-15 15:33:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"26","locationid":"2","amount":"2"}
+[21-06-15 15:33:28] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"27","locationid":"2","amount":"6"}
+[21-06-15 15:33:37] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"28","locationid":"2","amount":"6"}
+[21-06-15 15:33:47] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"29","locationid":"2","amount":"2"}
+[21-06-15 15:34:18] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"30","locationid":"2","amount":"2"}
+[21-06-15 15:34:48] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"30","locationid":"2","amount":"3"}
+[21-06-15 15:35:05] (STOCK - 1:admin) Stock Level Set
+Data: {"storeditemid":"30","locationid":"2","amount":"3"}
+[21-06-15 15:35:28] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"31","locationid":"2","amount":"2"}
+[21-06-15 15:49:22] (ITEM - 1:admin) Item added with id:73
+Data: {"code":"5010327000039","qty":"2","name":"GRANTS 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"1400","price":"1700","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"73"}
+[21-06-15 15:50:24] (ITEM - 1:admin) Item added with id:74
+Data: {"code":"5010327000046","qty":"4","name":"GRANTS 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1150","price":"1300","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"74"}
+[21-06-15 15:52:40] (ITEM - 1:admin) Item added with id:75
+Data: {"code":"5410316982382","qty":"1","name":"SMIRNOFF ORANGE","alt_name":"","description":"1LTR","taxid":"1","cost":"1600","price":"2000","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"75"}
+[21-06-15 15:54:37] (ITEM - 1:admin) Item added with id:76
+Data: {"code":"5410316265188","qty":"1","name":"SMIRNOFF BLACK","alt_name":"","description":"1LTR","taxid":"1","cost":"1920","price":"2500","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"76"}
+[21-06-15 15:54:53] (ITEM - 1:admin) Item updated with id:75
+Data: {"id":"75","code":"5410316982382","qty":"1","name":"SMIRNOFF ORANGE","alt_name":"","description":"1LTR","taxid":"1","cost":"1600","price":"2000","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[]}
+[21-06-15 15:56:47] (ITEM - 1:admin) Item added with id:77
+Data: {"code":"6161101600927","qty":"3","name":"SMIRNOFF RED","alt_name":"","description":"1LTR","taxid":"1","cost":"1200","price":"1650","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"77"}
+[21-06-15 15:57:13] (ITEM - 1:admin) Item updated with id:77
+Data: {"id":"77","code":"6161101600927","qty":"3","name":"SMIRNOFF RED 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"1200","price":"1650","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[]}
+[21-06-15 15:58:06] (ITEM - 1:admin) Item added with id:78
+Data: {"code":"6161101600934","qty":"6","name":"SMIRNOFF RED 750ML","alt_name":"","description":"1LTR","taxid":"1","cost":"960","price":"1250","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"78"}
+[21-06-15 15:59:29] (ITEM - 1:admin) Item added with id:79
+Data: {"code":"6161101600941","qty":"6","name":"SMIRNOFF RED 375ML","alt_name":"","description":"375ML","taxid":"1","cost":"456","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"79"}
+[21-06-15 15:59:52] (ITEM - 1:admin) Item updated with id:78
+Data: {"id":"78","code":"6161101600934","qty":"6","name":"SMIRNOFF RED 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"960","price":"1250","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[]}
+[21-06-15 16:01:46] (ITEM - 1:admin) Item added with id:80
+Data: {"code":"6161101602051","qty":"6","name":"SMIRNOFF RED 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"336","price":"450","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"80"}
+[21-06-15 16:02:54] (ITEM - 1:admin) Item added with id:81
+Data: {"code":"5000299223055","qty":"1","name":"CAPTAIN MORGAN SPICED GOLD 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"1800","price":"1900","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"81"}
+[21-06-15 16:03:37] (ITEM - 1:admin) Item added with id:82
+Data: {"code":"6161101604543","qty":"1","name":"CAPTAIN MORGAN SPICED GOLD 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1650","price":"1750","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"82"}
+[21-06-15 16:05:29] (ITEM - 1:admin) Item added with id:83
+Data: {"code":"6161101604550","qty":"10","name":"CAPTAIN MORGAN GOLD 250ML","alt_name":"","description":"GOLD","taxid":"1","cost":"248","price":"310","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"83"}
+[21-06-15 16:05:47] (ITEM - 1:admin) Item updated with id:81
+Data: {"id":"81","code":"5000299223055","qty":"1","name":"CAPTAIN MORGAN SPICED GOLD 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"1800","price":"1900","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[]}
+[21-06-15 16:05:54] (ITEM - 1:admin) Item updated with id:82
+Data: {"id":"82","code":"6161101604543","qty":"1","name":"CAPTAIN MORGAN SPICED GOLD 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1650","price":"1750","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[]}
+[21-06-15 16:05:57] (ITEM - 1:admin) Item updated with id:81
+Data: {"id":"81","code":"5000299223055","qty":"1","name":"CAPTAIN MORGAN SPICED GOLD 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"1800","price":"1900","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[]}
+[21-06-15 16:09:32] (ITEM - 1:admin) Item updated with id:82
+Data: {"id":"82","code":"5000299223031","qty":"1","name":"CAPTAIN MORGAN SPICED GOLD 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1650","price":"1750","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[]}
+[21-06-15 16:10:15] (ITEM - 1:admin) Item updated with id:23
+Data: {"id":"23","code":"3245995960015","qty":"3","name":"HENNESSY","alt_name":"","description":"COGNAC","taxid":"1","cost":"3750","price":"4300","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 16:12:30] (ITEM - 1:admin) Item added with id:84
+Data: {"code":"6161101604543","qty":"6","name":"CAPTAIN MORGAN GOLD 750ML","alt_name":"","description":"GOLD","taxid":"1","cost":"721","price":"900","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"84"}
+[21-06-15 16:18:37] (ITEM - 1:admin) Item added with id:85
+Data: {"code":"5010103800303","qty":"1","name":"J&amp;B 750ML RARE WHISKY","alt_name":"J&amp;B RARE WHISKY","description":"750ML","taxid":"1","cost":"1416","price":"1750","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"85"}
+[21-06-15 16:23:39] (ITEM - 1:admin) Item added with id:86
+Data: {"code":"8906080740534","qty":"4","name":"IRIS RESERVE WHISKY","alt_name":"IRIS WHISKY","description":"750ML","taxid":"1","cost":"750","price":"800","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"86"}
+[21-06-15 16:24:43] (ITEM - 1:admin) Item updated with id:85
+Data: {"id":"85","code":"5010103800303","qty":"1","name":"J&amp;B 750ML RARE WHISKY","alt_name":"J&amp;B RARE WHISKY","description":"750ML","taxid":"1","cost":"1416","price":"1750","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-06-15 16:27:22] (ITEM - 1:admin) Item added with id:87
+Data: {"code":"8901522000108","qty":"6","name":"IMPERIAL BLUE WHISKY","alt_name":"IMPERIAL BLUE WHISKY","description":"750ML","taxid":"1","cost":"610","price":"650","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"87"}
+[21-06-15 16:35:36] (ITEM - 1:admin) Item added with id:88
+Data: {"code":"6161101603522","qty":"6","name":"CHROME VODKA 750ML","alt_name":"CHROME VODKA","description":"750ML","taxid":"1","cost":"480","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"88"}
+[21-06-15 16:37:28] (ITEM - 1:admin) Item added with id:89
+Data: {"code":"6161101603515","qty":"10","name":"CHROME VODKA 250ML","alt_name":"CHROME VODKA","description":"250ML","taxid":"1","cost":"173","price":"220","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"89"}
+[21-06-15 16:41:47] (ITEM - 1:admin) Item added with id:90
+Data: {"code":"6161100421370","qty":"6","name":"KIBAO VODKA 750ML","alt_name":"","description":"750 ML","taxid":"1","cost":"460","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"90"}
+[21-06-15 16:44:36] (ITEM - 1:admin) Item added with id:91
+Data: {"code":"6161100421387","qty":"6","name":"KIBAO VODKA 350 ML","alt_name":"","description":" 350ML","taxid":"1","cost":"250","price":"310","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"91"}
+[21-06-15 16:46:14] (ITEM - 1:admin) Item added with id:92
+Data: {"code":"6161100420823","qty":"12","name":"KIBAO VODKA250ML","alt_name":"","description":"250ML","taxid":"1","cost":"168","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"92"}
+[21-06-15 16:48:54] (ITEM - 1:admin) Item added with id:93
+Data: {"code":"6161101604888","qty":"6","name":"TRIPPLE ACE 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"420","price":"550","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"93"}
+[21-06-15 16:50:46] (ITEM - 1:admin) Item added with id:94
+Data: {"code":"6161101604864","qty":"10","name":"TRIPPLE ACE 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"147","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[],"id":"94"}
+[21-06-15 17:01:14] (ITEM - 1:admin) Item added with id:95
+Data: {"code":"6161100421356","qty":"6","name":"HUNTERS CHOICE 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"660","price":"850","wholesale_price":"0","supplierid":"3","categoryid":"3","type":"general","modifiers":[],"id":"95"}
+[21-06-15 17:02:44] (ITEM - 1:admin) Item added with id:96
+Data: {"code":"6161100421363","qty":"6","name":"HUNTERS CHOICE 350ML","alt_name":"","description":"350ML","taxid":"1","cost":"355","price":"450","wholesale_price":"0","supplierid":"3","categoryid":"3","type":"general","modifiers":[],"id":"96"}
+[21-06-15 17:04:19] (ITEM - 1:admin) Item added with id:97
+Data: {"code":"6161100420786","qty":"12","name":"HUNTERS CHOICE 250ML","alt_name":"","description":"350ML","taxid":"1","cost":"235","price":"300","wholesale_price":"0","supplierid":"3","categoryid":"3","type":"general","modifiers":[],"id":"97"}
+[21-06-15 17:06:02] (ITEM - 1:admin) Item added with id:98
+Data: {"code":"6161100421219","qty":"6","name":"COUNTY 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"440","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"98"}
+[21-06-15 17:07:14] (ITEM - 1:admin) Item added with id:99
+Data: {"code":"6161100421233","qty":"12","name":"COUNTY 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"145","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"99"}
+[21-06-15 17:09:26] (ITEM - 1:admin) Item added with id:100
+Data: {"code":"6001496011796","qty":"3","name":"VICEROY BRANDY 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1000","price":"1300","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"100"}
+[21-06-15 17:11:09] (ITEM - 1:admin) Item added with id:101
+Data: {"code":"6001108016034","qty":"6","name":"VICEROY BRANDY 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"335","price":"410","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"101"}
+[21-06-15 17:13:56] (ITEM - 1:admin) Item added with id:102
+Data: {"code":"6001496011772","qty":"1","name":"VICEROY BRANDY 375ML","alt_name":"","description":"375ML","taxid":"1","cost":"520","price":"650","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"102"}
+[21-06-15 17:17:28] (ITEM - 1:admin) Item added with id:103
+Data: {"code":"5013967003972","qty":"3","name":"JOHN BARR 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1100","price":"1250","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"103"}
+[21-06-15 17:20:40] (ITEM - 1:admin) Item added with id:104
+Data: {"code":"5000292001001","qty":"6","name":"VAT 69 WHISKEY 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1120","price":"1500","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"104"}
+[21-06-15 17:21:26] (ITEM - 1:admin) Item added with id:105
+Data: {"code":"6161101601115","qty":"11","name":"VAT 69 WHISKEY 350ML","alt_name":"","description":"750ML","taxid":"1","cost":"656","price":"850","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"105"}
+[21-06-15 17:22:59] (ITEM - 1:admin) Item added with id:106
+Data: {"code":"8908006354191","qty":"6","name":"ALL SEASONS 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"700","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"106"}
+[21-06-15 17:25:15] (ITEM - 1:admin) Item added with id:107
+Data: {"code":"8901522000092","qty":"4","name":"ROYAL STAG 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"720","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"107"}
+[21-06-15 17:28:08] (ITEM - 1:admin) Item added with id:108
+Data: {"code":"5010103930864","qty":"6","name":"RICHOT 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"1007","price":"1250","wholesale_price":"0","supplierid":"2","categoryid":"6","type":"general","modifiers":[],"id":"108"}
+[21-06-15 17:29:47] (ITEM - 1:admin) Item added with id:109
+Data: {"code":"5010103930871","qty":"6","name":"RICHOT 350ML","alt_name":"","description":"350ML","taxid":"1","cost":"464","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"6","type":"general","modifiers":[],"id":"109"}
+[21-06-15 17:30:39] (ITEM - 1:admin) Item added with id:110
+Data: {"code":"6161101602181","qty":"6","name":"RICHOT 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"336","price":"450","wholesale_price":"0","supplierid":"2","categoryid":"6","type":"general","modifiers":[],"id":"110"}
+[21-06-15 17:33:28] (ITEM - 1:admin) Item added with id:111
+Data: {"code":"6161101604994","qty":"6","name":"KENYA CANE PINNAPLE 750 ML","alt_name":"","description":"750ML","taxid":"1","cost":"586","price":"700","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"111"}
+[21-06-15 17:34:11] (ITEM - 1:admin) Item added with id:112
+Data: {"code":"6161101604857","qty":"6","name":"KENYA CANE CITRUS 750 ML","alt_name":"","description":"750ML","taxid":"1","cost":"586","price":"700","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"112"}
+[21-06-15 17:34:58] (ITEM - 1:admin) Item added with id:113
+Data: {"code":"5010103930833","qty":"6","name":"KENYA CANE SMOOTH 750 ML","alt_name":"","description":"750ML","taxid":"1","cost":"586","price":"700","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"113"}
+[21-06-15 17:35:16] (ITEM - 1:admin) Item updated with id:112
+Data: {"id":"112","code":"6161101604857","qty":"2","name":"KENYA CANE CITRUS 750 ML","alt_name":"","description":"750ML","taxid":"1","cost":"586","price":"700","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[]}
+[21-06-15 17:38:14] (ITEM - 1:admin) Item updated with id:112
+Data: {"id":"112","code":"6161101604857","qty":"2","name":"KENYA CANE CITRUS 750 ML","alt_name":"","description":"750ML","taxid":"1","cost":"560","price":"700","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[]}
+[21-06-15 17:46:14] (ITEM - 1:admin) Item added with id:114
+Data: {"code":"5010103930840","qty":"12","name":"KENYA CANE SMOOTH 350ML","alt_name":"","description":"350ML","taxid":"1","cost":"293","price":"350","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"114"}
+[21-06-15 17:48:28] (ITEM - 1:admin) Item added with id:115
+Data: {"code":"6161101602211","qty":"40","name":"KENYA CANE SMOOTH 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"208","price":"260","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"115"}
+[21-06-15 17:49:43] (ITEM - 1:admin) Item added with id:116
+Data: {"code":"6161101604840","qty":"6","name":"KENYA CANE CITRUS 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"208","price":"260","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"116"}
+[21-06-15 17:53:43] (ITEM - 1:admin) Item added with id:117
+Data: {"code":"6161100421509","qty":"6","name":"BEST WHISKY 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"700","price":"800","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"117"}
+[21-06-15 17:55:07] (ITEM - 1:admin) Item added with id:118
+Data: {"code":"5010103930628","qty":"12","name":"GILBEYS GIN 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"960","price":"1250","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"118"}
+[21-06-15 17:56:47] (ITEM - 1:admin) Item added with id:119
+Data: {"code":"6161101602167","qty":"6","name":"GILBEYS GIN 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"336","price":"450","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"119"}
+[21-06-15 17:58:51] (ITEM - 1:admin) Item added with id:120
+Data: {"code":"6161101605465","qty":"6","name":"CHROME GIN 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"480","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"120"}
+[21-06-15 17:59:58] (ITEM - 1:admin) Item added with id:121
+Data: {"code":"6161101605458","qty":"10","name":"CHROME GIN 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"173","price":"220","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[],"id":"121"}
+[21-06-15 18:02:39] (ITEM - 1:admin) Item added with id:122
+Data: {"code":"8901544019027","qty":"4","name":"OFFICERS CHOICE","alt_name":"","description":"750ML","taxid":"1","cost":"650","price":"750","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"122"}
+[21-06-15 18:05:03] (ITEM - 1:admin) Item added with id:123
+Data: {"code":"5010103930963","qty":"6","name":"BOND 7 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"960","price":"1250","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"123"}
+[21-06-15 18:06:28] (ITEM - 1:admin) Item added with id:124
+Data: {"code":"5010103930970","qty":"6","name":"BOND 7 350ML","alt_name":"","description":"350ML","taxid":"1","cost":"464","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"124"}
+[21-06-15 18:08:51] (ITEM - 1:admin) Item added with id:125
+Data: {"code":"6161101602143","qty":"6","name":"BOND 7 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"336","price":"430","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[],"id":"125"}
+[21-06-15 18:11:49] (ITEM - 1:admin) Item added with id:126
+Data: {"code":"8902147010329","qty":"1","name":"8PM HONEY","alt_name":"","description":"750ML","taxid":"1","cost":"733","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"126"}
+[21-06-15 18:12:21] (ITEM - 1:admin) Item added with id:127
+Data: {"code":"8902147010923","qty":"2","name":"8PM GRAIN WHISKY","alt_name":"","description":"750ML","taxid":"1","cost":"733","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"127"}
+[21-06-15 18:14:22] (ITEM - 1:admin) Item added with id:128
+Data: {"code":"6161101603614","qty":"6","name":"ORIJIN 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"484","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"128"}
+[21-06-15 18:15:16] (ITEM - 1:admin) Item added with id:129
+Data: {"code":"6161101603607","qty":"10","name":"ORIJIN 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"216","price":"600","wholesale_price":"250","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"129"}
+[21-06-15 18:18:14] (ITEM - 1:admin) Item added with id:130
+Data: {"code":"3267682136404","qty":"6","name":"HIGHLAND QUEEN","alt_name":"","description":"750ML","taxid":"1","cost":"790","price":"900","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"130"}
+[21-06-15 18:20:57] (ITEM - 1:admin) Item added with id:131
+Data: {"code":"8901556013327","qty":"6","name":"MacMOHAN","alt_name":"","description":"750ML","taxid":"1","cost":"720","price":"850","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[],"id":"131"}
+[21-06-15 18:24:02] (ITEM - 1:admin) Item added with id:132
+Data: {"code":"6161101560702","qty":"3","name":"KENYA KING 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"470","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"5","type":"general","modifiers":[],"id":"132"}
+[21-06-15 18:25:52] (ITEM - 1:admin) Item added with id:133
+Data: {"code":"6161101561037","qty":"12","name":"KENYA KING 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"150","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"5","type":"general","modifiers":[],"id":"133"}
+[21-06-15 18:28:43] (ITEM - 1:admin) Item added with id:134
+Data: {"code":"6203005570149","qty":"6","name":"KONYAGI 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"530","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"4","type":"general","modifiers":[],"id":"134"}
+[21-06-15 18:30:15] (ITEM - 1:admin) Item added with id:135
+Data: {"code":"6203005570170","qty":"6","name":"KONYAGI 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"175","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"4","type":"general","modifiers":[],"id":"135"}
+[21-06-15 18:32:39] (ITEM - 1:admin) Item added with id:136
+Data: {"code":"6161101560948","qty":"3","name":"NAPOLEON BRANDY 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"470","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"136"}
+[21-06-15 18:33:24] (ITEM - 1:admin) Item added with id:137
+Data: {"code":"6161101561020","qty":"12","name":"NAPOLEON BRANDY 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"150","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"137"}
+[21-06-15 18:35:13] (ITEM - 1:admin) Item added with id:138
+Data: {"code":"6161101561303","qty":"3","name":"WHITE PEARL 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"450","price":"500","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"138"}
+[21-06-15 18:36:11] (ITEM - 1:admin) Item added with id:139
+Data: {"code":"6161101561280","qty":"12","name":"WHITE PEARL 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"140","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"139"}
+[21-06-15 18:40:50] (ITEM - 1:admin) Item added with id:140
+Data: {"code":"6161101604871","qty":"6","name":"KANE EXTRA 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"460","price":"600","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"140"}
+[21-06-15 18:42:02] (ITEM - 1:admin) Item added with id:141
+Data: {"code":"6161101602075","qty":"10","name":"KANE EXTRA 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"158","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"5","type":"general","modifiers":[],"id":"141"}
+[21-06-15 18:44:40] (ITEM - 1:admin) Item added with id:142
+Data: {"code":"3800032070357","qty":"3","name":"FLIRT VODKA  GREEN APPLE 700ML","alt_name":"","description":"700ML","taxid":"1","cost":"780","price":"900","wholesale_price":"0","supplierid":"9","categoryid":"15","type":"general","modifiers":[],"id":"142"}
+[21-06-15 18:45:52] (ITEM - 1:admin) Item added with id:143
+Data: {"code":"3800032035165","qty":"6","name":"FLIRT VODKA  GREEN APPLE 375ML","alt_name":"","description":"375ML","taxid":"1","cost":"370","price":"500","wholesale_price":"0","supplierid":"9","categoryid":"15","type":"general","modifiers":[],"id":"143"}
+[21-06-15 18:46:09] (ITEM - 1:admin) Item updated with id:143
+Data: {"id":"143","code":"3800032035165","qty":"10","name":"FLIRT VODKA  GREEN APPLE 375ML","alt_name":"","description":"375ML","taxid":"1","cost":"370","price":"500","wholesale_price":"0","supplierid":"9","categoryid":"15","type":"general","modifiers":[]}
+[21-06-15 18:48:52] (ITEM - 1:admin) Item added with id:144
+Data: {"code":"6161101561549","qty":"3","name":"GENERAL MEAKINS 750ML","alt_name":"","description":"750ML","taxid":"1","cost":"450","price":"600","wholesale_price":"0","supplierid":"3","categoryid":"5","type":"general","modifiers":[],"id":"144"}
+[21-06-15 18:51:08] (ITEM - 1:admin) Item added with id:145
+Data: {"code":"6161101561532","qty":"12","name":"GENERAL MEAKINS 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"140","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"5","type":"general","modifiers":[],"id":"145"}
+[21-06-15 18:54:20] (ITEM - 1:admin) Item added with id:146
+Data: {"code":"6164004654097","qty":"18","name":"SWEETBERRY VODKA","alt_name":"","description":"250ML","taxid":"1","cost":"102.77","price":"120","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"146"}
+[21-06-15 18:55:53] (ITEM - 1:admin) Item added with id:147
+Data: {"code":"6164002438026","qty":"20","name":"FLYING HORSE","alt_name":"","description":"250ML","taxid":"1","cost":"92.5","price":"140","wholesale_price":"0","supplierid":"3","categoryid":"4","type":"general","modifiers":[],"id":"147"}
+[21-06-15 18:57:44] (ITEM - 1:admin) Item added with id:148
+Data: {"code":"6164002438484","qty":"20","name":"BLUE ICE 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"115","price":"140","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"148"}
+[21-06-15 18:58:49] (ITEM - 1:admin) Item added with id:149
+Data: {"code":"6164002435001","qty":"20","name":"TRIGGER 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"87.5","price":"140","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[],"id":"149"}
+[21-06-15 19:00:42] (AUTH) Authentication successful for user:admin
+[21-06-15 19:00:55] (ITEM - 1:admin) Item added with id:150
+Data: {"code":"8712000900663","qty":"24","name":"HEINEKEN BOTTLE","alt_name":"","description":"330ML","taxid":"1","cost":"180","price":"200","wholesale_price":"0","supplierid":"8","categoryid":"2","type":"general","modifiers":[],"id":"150"}
+[21-06-15 19:02:24] (ITEM - 1:admin) Item added with id:151
+Data: {"code":"8712000900045","qty":"24","name":"HEINEKEN CAN","alt_name":"","description":"500ML","taxid":"1","cost":"200","price":"250","wholesale_price":"0","supplierid":"8","categoryid":"2","type":"general","modifiers":[],"id":"151"}
+[21-06-15 19:03:14] (ITEM - 1:admin) Item added with id:152
+Data: {"code":"3155930006015","qty":"24","name":"DESPERADOS","alt_name":"","description":"330ML","taxid":"1","cost":"200","price":"220","wholesale_price":"0","supplierid":"8","categoryid":"2","type":"general","modifiers":[],"id":"152"}
+[21-06-15 19:04:49] (ITEM - 1:admin) Item added with id:153
+Data: {"code":"6001108055231","qty":"24","name":"HUNTERS DRY","alt_name":"","description":"330ML","taxid":"1","cost":"170","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"2","type":"general","modifiers":[],"id":"153"}
+[21-06-15 19:05:56] (ITEM - 1:admin) Item updated with id:153
+Data: {"id":"153","code":"6001108055231","qty":"24","name":"HUNTERS GOLD","alt_name":"","description":"330ML","taxid":"1","cost":"170","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"2","type":"general","modifiers":[]}
+[21-06-15 19:09:30] (ITEM - 1:admin) Item added with id:154
+Data: {"code":"6001108028044","qty":"12","name":"SAVANNA CIDER","alt_name":"","description":"330ML","taxid":"1","cost":"200","price":"220","wholesale_price":"0","supplierid":"3","categoryid":"2","type":"general","modifiers":[],"id":"154"}
+[21-06-15 19:12:43] (ITEM - 1:admin) Item added with id:155
+Data: {"code":"6161100420021","qty":"24","name":"KINGFISHER","alt_name":"","description":"300ML","taxid":"1","cost":"140","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"2","type":"general","modifiers":[],"id":"155"}
+[21-06-15 19:13:43] (ITEM - 1:admin) Item updated with id:153
+Data: {"id":"153","code":"6001108055231","qty":"24","name":"HUNTERS GOLD","alt_name":"","description":"330ML","taxid":"1","cost":"150","price":"200","wholesale_price":"0","supplierid":"3","categoryid":"2","type":"general","modifiers":[]}
+[21-06-15 19:15:51] (AUTH) Authentication successful for user:admin
+[21-06-15 19:15:59] (ITEM - 1:admin) Item added with id:156
+Data: {"code":"8851123222600","qty":"24","name":"SHARK","alt_name":"","description":"250ML","taxid":"1","cost":"115","price":"160","wholesale_price":"0","supplierid":"8","categoryid":"8","type":"general","modifiers":[],"id":"156"}
+[21-06-15 19:17:06] (ITEM - 1:admin) Item added with id:157
+Data: {"code":"90162602","qty":"24","name":"REDBULL","alt_name":"","description":"250ML","taxid":"1","cost":"130","price":"180","wholesale_price":"0","supplierid":"8","categoryid":"8","type":"general","modifiers":[],"id":"157"}
+[21-06-15 19:18:39] (ITEM - 1:admin) Item added with id:158
+Data: {"code":"5060166698874","qty":"24","name":"MONSTER","alt_name":"","description":"500ML","taxid":"1","cost":"150","price":"200","wholesale_price":"0","supplierid":"8","categoryid":"8","type":"general","modifiers":[],"id":"158"}
+[21-06-15 19:29:29] (ITEM - 1:admin) Item added with id:159
+Data: {"code":"5741000007624","qty":"24","name":"FAXE","alt_name":"","description":"500ML","taxid":"1","cost":"162.5","price":"200","wholesale_price":"0","supplierid":"8","categoryid":"2","type":"general","modifiers":[],"id":"159"}
+[21-06-15 19:32:54] (ITEM - 1:admin) Item added with id:160
+Data: {"code":"6161101601979","qty":"48","name":"TUSKER LAGER CAN","alt_name":"","description":"500ML","taxid":"1","cost":"156","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"160"}
+[21-06-15 19:34:05] (ITEM - 1:admin) Item added with id:161
+Data: {"code":"6161101604406","qty":"24","name":"TUSKER CIDER CAN","alt_name":"","description":"500ML","taxid":"1","cost":"165","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"161"}
+[21-06-15 19:34:46] (ITEM - 1:admin) Item added with id:162
+Data: {"code":"6161101602372","qty":"48","name":"GUINESS STOUT CAN","alt_name":"","description":"500ML","taxid":"1","cost":"173","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"162"}
+[21-06-15 19:35:21] (ITEM - 1:admin) Item added with id:163
+Data: {"code":"6161101605199","qty":"24","name":"GUINESS SMOOTH CAN","alt_name":"","description":"500ML","taxid":"1","cost":"156","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"163"}
+[21-06-15 19:35:58] (ITEM - 1:admin) Item added with id:164
+Data: {"code":"6161101602921","qty":"24","name":"TUSKER MALT CAN","alt_name":"","description":"500ML","taxid":"1","cost":"165","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"164"}
+[21-06-15 19:36:22] (ITEM - 1:admin) Item added with id:165
+Data: {"code":"6161101602938","qty":"24","name":"TUSKER LITE CAN","alt_name":"","description":"500ML","taxid":"1","cost":"165","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"165"}
+[21-06-15 19:36:43] (ITEM - 1:admin) Item added with id:166
+Data: {"code":"6161101603379","qty":"24","name":"WHITE CAP CAN CAN","alt_name":"","description":"500ML","taxid":"1","cost":"165","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"166"}
+[21-06-15 19:39:07] (AUTH) Authentication successful for user:admin
+[21-06-15 19:39:22] (ITEM - 1:admin) Item added with id:167
+Data: {"code":"6161101606011","qty":"24","name":"BALOZI CAN","alt_name":"","description":"500ML","taxid":"1","cost":"148","price":"180","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"167"}
+[21-06-15 19:40:29] (ITEM - 1:admin) Item updated with id:25
+Data: {"id":"25","code":"6161101604703","qty":"24","name":"SMIRNOFF BLACK ICE CAN","alt_name":"","description":"BLACK ICE","taxid":"1","cost":"142.625","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[]}
+[21-06-15 19:44:18] (ITEM - 1:admin) Item added with id:168
+Data: {"code":"6008165007784","qty":"80","name":"DUNHILL DOUBLE SWITCH","alt_name":"","description":"80PCS","taxid":"1","cost":"13.5","price":"20","wholesale_price":"350","supplierid":"2","categoryid":"13","type":"general","modifiers":[],"id":"168"}
+[21-06-15 19:44:49] (ITEM - 1:admin) Item added with id:169
+Data: {"code":"6008165007982","qty":"80","name":"DUNHILL EMBASSY","alt_name":"","description":"80PCS","taxid":"1","cost":"13.5","price":"20","wholesale_price":"350","supplierid":"2","categoryid":"13","type":"general","modifiers":[],"id":"169"}
+[21-06-15 19:46:19] (ITEM - 1:admin) Item added with id:170
+Data: {"code":"6008165007685","qty":"80","name":"ROTHMANS","alt_name":"","description":"80PCS","taxid":"1","cost":"10.5","price":"15","wholesale_price":"250","supplierid":"2","categoryid":"13","type":"general","modifiers":[],"id":"170"}
+[21-06-15 19:48:53] (ITEM - 1:admin) Item added with id:171
+Data: {"code":"6008165265962","qty":"80","name":"PALLMALL SAFARI","alt_name":"","description":"80PCS","taxid":"1","cost":"8.5","price":"10","wholesale_price":"250","supplierid":"2","categoryid":"13","type":"general","modifiers":[],"id":"171"}
+[21-06-15 19:51:13] (ITEM - 1:admin) Item added with id:172
+Data: {"code":"6161102960037","qty":"80","name":"TRUST STUDDED","alt_name":"","description":"24","taxid":"1","cost":"62.5","price":"100","wholesale_price":"0","supplierid":"4","categoryid":"14","type":"general","modifiers":[],"id":"172"}
+[21-06-15 19:51:29] (ITEM - 1:admin) Item updated with id:171
+Data: {"id":"171","code":"6008165265962","qty":"80","name":"PALLMALL SAFARI","alt_name":"","description":"80PCS","taxid":"1","cost":"8.5","price":"10","wholesale_price":"200","supplierid":"2","categoryid":"13","type":"general","modifiers":[]}
+[21-06-15 19:52:03] (ITEM - 1:admin) Item updated with id:171
+Data: {"id":"171","code":"6008165265962","qty":"80","name":"PALLMALL SAFARI","alt_name":"","description":"80PCS","taxid":"1","cost":"8.5","price":"10","wholesale_price":"250","supplierid":"2","categoryid":"13","type":"general","modifiers":[]}
+[21-06-15 19:52:53] (ITEM - 1:admin) Item added with id:173
+Data: {"code":"6161102960204","qty":"24","name":"TRUST CLASSIC","alt_name":"","description":"24","taxid":"1","cost":"37.5","price":"50","wholesale_price":"0","supplierid":"4","categoryid":"14","type":"general","modifiers":[],"id":"173"}
+[21-06-15 19:53:11] (ITEM - 1:admin) Item updated with id:172
+Data: {"id":"172","code":"6161102960037","qty":"24","name":"TRUST STUDDED","alt_name":"","description":"24","taxid":"1","cost":"62.5","price":"100","wholesale_price":"0","supplierid":"4","categoryid":"14","type":"general","modifiers":[]}
+[21-06-15 19:58:44] (ITEM - 1:admin) Item added with id:174
+Data: {"code":"6164003120074","qty":"19","name":"ROCKSTAR","alt_name":"","description":"20","taxid":"1","cost":"87.5","price":"100","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"174"}
+[21-06-15 20:00:09] (ITEM - 1:admin) Item added with id:175
+Data: {"code":"6166000137307","qty":"20","name":"SMART","alt_name":"","description":"20","taxid":"1","cost":"87.5","price":"100","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"175"}
+[21-06-15 20:00:38] (ITEM - 1:admin) Item updated with id:174
+Data: {"id":"174","code":"6164003120074","qty":"18","name":"ROCKSTAR","alt_name":"","description":"20","taxid":"1","cost":"87.5","price":"100","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[]}
+[21-06-15 20:01:47] (ITEM - 1:admin) Item added with id:176
+Data: {"code":"6164003602013","qty":"20","name":"TRACE","alt_name":"","description":"20","taxid":"1","cost":"85","price":"100","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[],"id":"176"}
+[21-06-15 20:04:58] (AUTH) Authentication successful for user:sales
+[21-06-15 20:05:47] (SALE - 3:sales) Sale Processed with ref: 1623783945582-2-7719 (ID:3)
+Data: {"ref":"1623783945582-2-7719","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"2880.00","subtotal":"3750.00","total":"3750.00","numitems":3,"processdt":1623783945582,"items":[{"ref":"aebda5a8","sitemid":"118","qty":3,"name":"GILBEYS GIN 750ML","unit":"1250.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"3750.00","desc":"750ML","cost":"960","unit_original":"1250","alt_name":"","id":"3"}],"payments":[{"method":"cash","amount":"3750.00","tender":"3750.00","change":"0.00","id":"3","processdt":1623783945582},{"method":"credit","amount":"0.00","id":"4","processdt":1623783945582},{"method":"cash","amount":"0.00","tender":"0.00","change":"0.00","id":"5","processdt":1623783945582}],"tax":"0.00","taxdata":{},"id":"3","dt":"2021-06-15 20:05:47","balance":0,"status":1}
+[21-06-15 20:08:20] (SALE - 3:sales) Sale Processed with ref: 1623784098613-2-9036 (ID:4)
+Data: {"ref":"1623784098613-2-9036","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"390.00","subtotal":"500.00","total":"500.00","numitems":2,"processdt":1623784098613,"items":[{"ref":"573fc83a","sitemid":"34","qty":1,"name":"DELMONTE PINEAPPLE","unit":"250.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"250.00","desc":"PINEAPPLE","cost":"195","unit_original":"250","alt_name":"","id":"4"},{"ref":"d6f94a8f","sitemid":"37","qty":1,"name":"DELMONTE TROPICAL","unit":"250.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"250.00","desc":"TROPICAL","cost":"195","unit_original":"250","alt_name":"","id":"5"}],"payments":[{"method":"cash","amount":"500.00","tender":"500.00","change":"0.00","id":"6","processdt":1623784098613}],"tax":"0.00","taxdata":{},"id":"4","dt":"2021-06-15 20:08:20","balance":0,"status":1}
+[21-06-15 20:09:02] (SALE - 3:sales) Sale Processed with ref: 1623784140635-2-1824 (ID:5)
+Data: {"ref":"1623784140635-2-1824","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"600.00","subtotal":"800.00","total":"800.00","numitems":4,"processdt":1623784140635,"items":[{"ref":"c40726f4","sitemid":"158","qty":4,"name":"MONSTER","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"800.00","desc":"500ML","cost":"150","unit_original":"200","alt_name":"","id":"6"}],"payments":[{"method":"cash","amount":"800.00","tender":"800.00","change":"0.00","id":"7","processdt":1623784140635}],"tax":"0.00","taxdata":{},"id":"5","dt":"2021-06-15 20:09:02","balance":0,"status":1}
+[21-06-15 20:09:29] (SALE - 3:sales) Sale Processed with ref: 1623784167714-2-213 (ID:6)
+Data: {"ref":"1623784167714-2-213","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"41.67","subtotal":"100.00","total":"100.00","numitems":1,"processdt":1623784167714,"items":[{"ref":"64a0d037","sitemid":"41","qty":1,"name":"HIGHLANDS 1LTR","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"100.00","desc":"1LTR","cost":"41.67","unit_original":"100","alt_name":"","id":"7"}],"payments":[{"method":"cash","amount":"100.00","tender":"100.00","change":"0.00","id":"8","processdt":1623784167714}],"tax":"0.00","taxdata":{},"id":"6","dt":"2021-06-15 20:09:29","balance":0,"status":1}
+[21-06-15 20:10:25] (SALE - 3:sales) Sale Processed with ref: 1623784224170-2-3308 (ID:7)
+Data: {"ref":"1623784224170-2-3308","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"175.00","subtotal":"200.00","total":"200.00","numitems":2,"processdt":1623784224170,"items":[{"ref":"fc0d0c90","sitemid":"174","qty":2,"name":"ROCKSTAR","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"20","cost":"87.5","unit_original":"100","alt_name":"","id":"8"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"9","processdt":1623784224170}],"tax":"0.00","taxdata":{},"id":"7","dt":"2021-06-15 20:10:25","balance":0,"status":1}
+[21-06-15 20:11:17] (SALE - 3:sales) Sale Processed with ref: 1623784275762-2-8967 (ID:8)
+Data: {"ref":"1623784275762-2-8967","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"87.50","subtotal":"140.00","total":"140.00","numitems":1,"processdt":1623784275762,"items":[{"ref":"971a7b02","sitemid":"149","qty":1,"name":"TRIGGER 250ML","unit":"140.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"140.00","desc":"250ML","cost":"87.5","unit_original":"140","alt_name":"","id":"9"}],"payments":[{"method":"cash","amount":"140.00","tender":"140.00","change":"0.00","id":"10","processdt":1623784275762}],"tax":"0.00","taxdata":{},"id":"8","dt":"2021-06-15 20:11:17","balance":0,"status":1}
+[21-06-15 20:11:58] (SALE - 3:sales) Sale Processed with ref: 1623784316704-2-7374 (ID:9)
+Data: {"ref":"1623784316704-2-7374","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"87.50","subtotal":"140.00","total":"140.00","numitems":1,"processdt":1623784316704,"items":[{"ref":"e873b63d","sitemid":"149","qty":1,"name":"TRIGGER 250ML","unit":"140.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"140.00","desc":"250ML","cost":"87.5","unit_original":"140","alt_name":"","id":"10"}],"payments":[{"method":"cash","amount":"140.00","tender":"140.00","change":"0.00","id":"11","processdt":1623784316704}],"tax":"0.00","taxdata":{},"id":"9","dt":"2021-06-15 20:11:58","balance":0,"status":1}
+[21-06-15 20:12:14] (SALE - 3:sales) Sale Processed with ref: 1623784332865-2-6402 (ID:10)
+Data: {"ref":"1623784332865-2-6402","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"173.00","subtotal":"220.00","total":"220.00","numitems":1,"processdt":1623784332865,"items":[{"ref":"bc6be9c3","sitemid":"89","qty":1,"name":"CHROME VODKA 250ML","unit":"220.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"220.00","desc":"250ML","cost":"173","unit_original":"220","alt_name":"CHROME VODKA","id":"11"}],"payments":[{"method":"cash","amount":"220.00","tender":"220.00","change":"0.00","id":"12","processdt":1623784332865}],"tax":"0.00","taxdata":{},"id":"10","dt":"2021-06-15 20:12:14","balance":0,"status":1}
+[21-06-15 20:12:38] (SALE - 3:sales) Sale Processed with ref: 1623784356417-2-8362 (ID:11)
+Data: {"ref":"1623784356417-2-8362","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"52.70","subtotal":"80.00","total":"80.00","numitems":1,"processdt":1623784356417,"items":[{"ref":"3b8f43f2","sitemid":"40","qty":1,"name":"COCACOLA 500ML","unit":"80.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"80.00","desc":"500ML","cost":"52.7","unit_original":"80","alt_name":"","id":"12"}],"payments":[{"method":"cash","amount":"80.00","tender":"80.00","change":"0.00","id":"13","processdt":1623784356417}],"tax":"0.00","taxdata":{},"id":"11","dt":"2021-06-15 20:12:38","balance":0,"status":1}
+[21-06-15 20:13:18] (SALE - 3:sales) Sale Processed with ref: 1623784397264-2-8618 (ID:12)
+Data: {"ref":"1623784397264-2-8618","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"142.63","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623784397264,"items":[{"ref":"8452ffcb","sitemid":"24","qty":1,"name":"SMIRNOFF GUARANA","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"GUARANA","cost":"142.625","unit_original":"200","alt_name":"","id":"13"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"14","processdt":1623784397264}],"tax":"0.00","taxdata":{},"id":"12","dt":"2021-06-15 20:13:18","balance":0,"status":1}
+[21-06-15 20:13:26] (SALE - 3:sales) Sale Processed with ref: 1623784404831-2-3628 (ID:13)
+Data: {"ref":"1623784404831-2-3628","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"142.63","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623784404831,"items":[{"ref":"b0ccaf67","sitemid":"25","qty":1,"name":"SMIRNOFF BLACK ICE CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"BLACK ICE","cost":"142.625","unit_original":"200","alt_name":"","id":"14"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"15","processdt":1623784404831}],"tax":"0.00","taxdata":{},"id":"13","dt":"2021-06-15 20:13:26","balance":0,"status":1}
+[21-06-15 20:13:54] (SALE - 3:sales) Sale Processed with ref: 1623784432919-2-7154 (ID:14)
+Data: {"ref":"1623784432919-2-7154","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"830.00","subtotal":"900.00","total":"900.00","numitems":1,"processdt":1623784432919,"items":[{"ref":"afa2b95f","sitemid":"64","qty":1,"name":"WHITE HALL FIRE CINNAMON 1LTR","unit":"900.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"900.00","desc":"WHISKY","cost":"830","unit_original":"900","alt_name":"","id":"15"}],"payments":[{"method":"cash","amount":"900.00","tender":"900.00","change":"0.00","id":"16","processdt":1623784432919}],"tax":"0.00","taxdata":{},"id":"14","dt":"2021-06-15 20:13:54","balance":0,"status":1}
+[21-06-15 20:14:22] (SALE - 3:sales) Sale Processed with ref: 1623784460886-2-2984 (ID:15)
+Data: {"ref":"1623784460886-2-2984","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"480.00","subtotal":"600.00","total":"600.00","numitems":1,"processdt":1623784460886,"items":[{"ref":"37445b59","sitemid":"120","qty":1,"name":"CHROME GIN 750ML","unit":"600.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"600.00","desc":"750ML","cost":"480","unit_original":"600","alt_name":"","id":"16"}],"payments":[{"method":"credit","amount":"600.00","id":"17","processdt":1623784460886}],"tax":"0.00","taxdata":{},"id":"15","dt":"2021-06-15 20:14:22","balance":0,"status":1}
+[21-06-15 20:14:39] (SALE - 3:sales) Sale Processed with ref: 1623784477550-2-8229 (ID:16)
+Data: {"ref":"1623784477550-2-8229","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"960.00","subtotal":"1200.00","total":"1200.00","numitems":2,"processdt":1623784477550,"items":[{"ref":"00e846d1","sitemid":"120","qty":2,"name":"CHROME GIN 750ML","unit":"600.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"1200.00","desc":"750ML","cost":"480","unit_original":"600","alt_name":"","id":"17"}],"payments":[{"method":"cash","amount":"600.00","tender":"600.00","change":"0.00","id":"18","processdt":1623784477550},{"method":"credit","amount":"600.00","id":"19","processdt":1623784477550}],"tax":"0.00","taxdata":{},"id":"16","dt":"2021-06-15 20:14:39","balance":0,"status":1}
+[21-06-15 20:15:39] (SALE - 3:sales) Sale Processed with ref: 1623784537605-2-4840 (ID:17)
+Data: {"ref":"1623784537605-2-4840","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"76.50","subtotal":"90.00","total":"90.00","numitems":9,"processdt":1623784537605,"items":[{"ref":"e1891147","sitemid":"171","qty":9,"name":"PALLMALL SAFARI","unit":"10.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"90.00","desc":"80PCS","cost":"8.5","unit_original":"10","alt_name":"","id":"18"}],"payments":[{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"20","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"21","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"22","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"23","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"24","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"25","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"26","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"27","processdt":1623784537605},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"28","processdt":1623784537605}],"tax":"0.00","taxdata":{},"id":"17","dt":"2021-06-15 20:15:39","balance":0,"status":1}
+[21-06-15 20:16:01] (SALE - 3:sales) Sale Processed with ref: 1623784560037-2-7207 (ID:18)
+Data: {"ref":"1623784560037-2-7207","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"280.00","subtotal":"400.00","total":"400.00","numitems":2,"processdt":1623784560037,"items":[{"ref":"23431451","sitemid":"139","qty":2,"name":"WHITE PEARL 250ML","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"400.00","desc":"250ML","cost":"140","unit_original":"200","alt_name":"","id":"19"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"29","processdt":1623784560037},{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"30","processdt":1623784560037}],"tax":"0.00","taxdata":{},"id":"18","dt":"2021-06-15 20:16:01","balance":0,"status":1}
+[21-06-15 20:17:10] (AUTH) Authentication successful for user:admin
+[21-06-15 20:18:34] (AUTH - 3:sales) Authentication successful for user:sales
+[21-06-15 20:18:34] (SALE - 3:sales) Sale Processed with ref: 1623784711332-2-4164 (ID:19)
+Data: {"ref":"1623784711332-2-4164","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"87.50","subtotal":"100.00","total":"100.00","numitems":1,"processdt":1623784711332,"items":[{"ref":"4771ec06","sitemid":"175","qty":1,"name":"SMART","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"100.00","desc":"20","cost":"87.5","unit_original":"100","alt_name":"","id":"20"}],"payments":[{"method":"cash","amount":"100.00","tender":"100.00","change":"0.00","id":"31","processdt":1623784711332}],"tax":"0.00","taxdata":{},"id":"19","dt":"2021-06-15 20:18:34","balance":0,"status":1}
+[21-06-15 20:19:06] (SALE - 3:sales) Sale Processed with ref: 1623784745090-2-8796 (ID:20)
+Data: {"ref":"1623784745090-2-8796","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"165.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623784745090,"items":[{"ref":"443aed6b","sitemid":"161","qty":1,"name":"TUSKER CIDER CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"500ML","cost":"165","unit_original":"200","alt_name":"","id":"21"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"32","processdt":1623784745090},{"method":"credit","amount":"0.00","id":"33","processdt":1623784745090}],"tax":"0.00","taxdata":{},"id":"20","dt":"2021-06-15 20:19:06","balance":0,"status":1}
+[21-06-15 20:19:33] (SALE - 3:sales) Sale Processed with ref: 1623784771594-2-925 (ID:21)
+Data: {"ref":"1623784771594-2-925","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"165.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623784771594,"items":[{"ref":"8c8f55aa","sitemid":"161","qty":1,"name":"TUSKER CIDER CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"500ML","cost":"165","unit_original":"200","alt_name":"","id":"22"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"34","processdt":1623784771594}],"tax":"0.00","taxdata":{},"id":"21","dt":"2021-06-15 20:19:33","balance":0,"status":1}
+[21-06-15 20:19:49] (AUTH) Authentication successful for user:admin
+[21-06-15 20:25:13] (AUTH - 3:sales) Authentication successful for user:sales
+[21-06-15 20:25:13] (SALE - 3:sales) Sale Processed with ref: 1623785111064-2-3231 (ID:22)
+Data: {"ref":"1623785111064-2-3231","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"173.00","subtotal":"220.00","total":"220.00","numitems":1,"processdt":1623785111064,"items":[{"ref":"33bbccc9","sitemid":"121","qty":1,"name":"CHROME GIN 250ML","unit":"220.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"220.00","desc":"250ML","cost":"173","unit_original":"220","alt_name":"","id":"23"}],"payments":[{"method":"cash","amount":"220.00","tender":"220.00","change":"0.00","id":"35","processdt":1623785111064}],"tax":"0.00","taxdata":{},"id":"22","dt":"2021-06-15 20:25:13","balance":0,"status":1}

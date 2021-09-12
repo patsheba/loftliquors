@@ -1,0 +1,6 @@
+[21-08-15 16:03:46] (AUTH) Authentication successful for user:admin
+[21-08-15 17:19:18] (AUTH) Authentication successful for user:admin
+[21-08-15 17:20:17] (ITEM - 1:admin) Item updated with id:86
+Data: {"id":"86","code":"8906080740534","qty":"4","name":"IRIS RESERVE WHISKY","alt_name":"IRIS WHISKY","description":"750ML","taxid":"1","cost":"750","price":"850","wholesale_price":"0","supplierid":"2","categoryid":"3","type":"general","modifiers":[]}
+[21-08-15 18:13:41] (ITEM - 1:admin) Item updated with id:73
+Data: {"id":"73","code":"5010327000039","qty":"2","name":"GRANTS 1LTR","alt_name":"","description":"1LTR","taxid":"1","cost":"1471","price":"1600","wholesale_price":"0","supplierid":"4","categoryid":"3","type":"general","modifiers":[]}

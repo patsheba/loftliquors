@@ -1,0 +1,392 @@
+[21-06-17 10:09:03] (AUTH) Authentication successful for user:sales
+[21-06-17 10:09:13] (AUTH) Authentication successful for user:admin
+[21-06-17 10:09:28] (AUTH) Authentication successful for user:sales
+[21-06-17 10:13:25] (SALE - 3:sales) Sale Processed with ref: 1623921204949-2-5995 (ID:57)
+Data: {"ref":"1623921204949-2-5995","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"279.50","subtotal":"320.00","total":"320.00","numitems":5,"processdt":1623921204949,"items":[{"ref":"39d5b4ef","sitemid":"175","qty":2,"name":"SMART","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"20","cost":"87.5","unit_original":"100","alt_name":"","id":"61"},{"ref":"9db27acf","sitemid":"174","qty":1,"name":"ROCKSTAR","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"100.00","desc":"20","cost":"87.5","unit_original":"100","alt_name":"","id":"62"},{"ref":"c16821d5","sitemid":"171","qty":2,"name":"PALLMALL SAFARI","unit":"10.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"20.00","desc":"80PCS","cost":"8.5","unit_original":"10","alt_name":"","id":"63"}],"payments":[{"method":"cash","amount":"100.00","tender":"100.00","change":"0.00","id":"99","processdt":1623921204949},{"method":"cash","amount":"100.00","tender":"100.00","change":"0.00","id":"100","processdt":1623921204949},{"method":"cash","amount":"100.00","tender":"100.00","change":"0.00","id":"101","processdt":1623921204949},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"102","processdt":1623921204949},{"method":"cash","amount":"10.00","tender":"10.00","change":"0.00","id":"103","processdt":1623921204949}],"tax":"0.00","taxdata":{},"id":"57","dt":"2021-06-17 10:13:25","balance":0,"status":1}
+[21-06-17 10:22:40] (AUTH) Authentication successful for user:admin
+[21-06-17 10:23:39] (AUTH) Authentication successful for user:sales
+[21-06-17 10:23:48] (AUTH) Authentication successful for user:admin
+[21-06-17 10:24:14] (CONFIG - 1:admin) New device registered with uuid: f1f1f62f381c9822cf212a208398356e0bb5a2e8e324c50e8dc4283ee0c091d2
+Data: {"uuid":"f1f1f62f381c9822cf212a208398356e0bb5a2e8e324c50e8dc4283ee0c091d2","devicename":"meru gatimene","locationname":"meru gatimene","locationid":"3","deviceid":"3"}
+[21-06-17 10:24:33] (AUTH) Authentication successful for user:sales
+[21-06-17 10:25:09] (AUTH) Authentication successful for user:admin
+[21-06-17 10:25:54] (AUTH) Authentication successful for user:admin
+[21-06-17 10:46:12] (CONFIG - 1:admin) Device disabled with id:3
+[21-06-17 10:46:19] (CONFIG - 1:admin) Device deleted with id:3
+[21-06-17 11:02:25] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"58","locationid":"2","amount":"1"}
+[21-06-17 11:02:47] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"59","locationid":"2","amount":"3"}
+[21-06-17 11:03:10] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"60","locationid":"2","amount":"6"}
+[21-06-17 11:03:19] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"61","locationid":"2","amount":"6"}
+[21-06-17 11:03:40] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"62","locationid":"2","amount":"3"}
+[21-06-17 11:03:54] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"63","locationid":"2","amount":"3"}
+[21-06-17 11:04:15] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"64","locationid":"2","amount":"2"}
+[21-06-17 11:04:26] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"65","locationid":"2","amount":"1"}
+[21-06-17 11:04:57] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"66","locationid":"2","amount":"3"}
+[21-06-17 11:05:14] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"68","locationid":"2","amount":"6"}
+[21-06-17 11:05:26] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"67","locationid":"2","amount":"12"}
+[21-06-17 11:05:41] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"69","locationid":"2","amount":"3"}
+[21-06-17 11:05:51] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"70","locationid":"2","amount":"6"}
+[21-06-17 11:06:14] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"71","locationid":"2","amount":"2"}
+[21-06-17 11:06:23] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"72","locationid":"2","amount":"2"}
+[21-06-17 11:06:40] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"73","locationid":"2","amount":"2"}
+[21-06-17 11:06:50] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"74","locationid":"2","amount":"4"}
+[21-06-17 11:07:02] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"75","locationid":"2","amount":"1"}
+[21-06-17 11:07:12] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"76","locationid":"2","amount":"1"}
+[21-06-17 11:07:26] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"77","locationid":"2","amount":"3"}
+[21-06-17 11:07:37] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"79","locationid":"2","amount":"6"}
+[21-06-17 11:07:47] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"80","locationid":"2","amount":"6"}
+[21-06-17 11:07:59] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"81","locationid":"2","amount":"1"}
+[21-06-17 11:08:07] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"82","locationid":"2","amount":"1"}
+[21-06-17 11:08:21] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"83","locationid":"2","amount":"10"}
+[21-06-17 11:08:30] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"84","locationid":"2","amount":"6"}
+[21-06-17 11:08:41] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"84","locationid":"2","amount":"6"}
+[21-06-17 11:08:59] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"85","locationid":"2","amount":"1"}
+[21-06-17 11:09:19] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"86","locationid":"2","amount":"4"}
+[21-06-17 11:09:34] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"87","locationid":"2","amount":"6"}
+[21-06-17 11:09:50] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"88","locationid":"2","amount":"6"}
+[21-06-17 11:10:05] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"90","locationid":"2","amount":"6"}
+[21-06-17 11:10:17] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"91","locationid":"2","amount":"6"}
+[21-06-17 11:10:28] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"92","locationid":"2","amount":"12"}
+[21-06-17 11:10:39] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"93","locationid":"2","amount":"6"}
+[21-06-17 11:10:52] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"94","locationid":"2","amount":"10"}
+[21-06-17 11:11:05] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"95","locationid":"2","amount":"6"}
+[21-06-17 11:11:19] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"96","locationid":"2","amount":"6"}
+[21-06-17 11:11:30] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"97","locationid":"2","amount":"12"}
+[21-06-17 11:11:42] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"98","locationid":"2","amount":"6"}
+[21-06-17 11:11:52] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"99","locationid":"2","amount":"12"}
+[21-06-17 11:12:04] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"100","locationid":"2","amount":"3"}
+[21-06-17 11:12:13] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"101","locationid":"2","amount":"6"}
+[21-06-17 11:12:32] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"102","locationid":"2","amount":"6"}
+[21-06-17 11:12:46] (ITEM - 1:admin) Item updated with id:102
+Data: {"id":"102","code":"6001496011772","qty":"6","name":"VICEROY BRANDY 375ML","alt_name":"","description":"375ML","taxid":"1","cost":"520","price":"650","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[]}
+[21-06-17 11:13:10] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"103","locationid":"2","amount":"3"}
+[21-06-17 11:13:26] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"104","locationid":"2","amount":"6"}
+[21-06-17 11:13:37] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"105","locationid":"2","amount":"11"}
+[21-06-17 11:13:53] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"106","locationid":"2","amount":"6"}
+[21-06-17 11:14:12] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"107","locationid":"2","amount":"4"}
+[21-06-17 11:14:31] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"108","locationid":"2","amount":"6"}
+[21-06-17 11:14:39] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"109","locationid":"2","amount":"6"}
+[21-06-17 11:14:48] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"110","locationid":"2","amount":"6"}
+[21-06-17 11:15:12] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"111","locationid":"2","amount":"6"}
+[21-06-17 11:15:20] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"113","locationid":"2","amount":"6"}
+[21-06-17 11:15:35] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"112","locationid":"2","amount":"2"}
+[21-06-17 11:15:48] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"113","locationid":"2","amount":"6"}
+[21-06-17 11:15:57] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"114","locationid":"2","amount":"12"}
+[21-06-17 11:16:10] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"115","locationid":"2","amount":"40"}
+[21-06-17 11:16:27] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"116","locationid":"2","amount":"6"}
+[21-06-17 11:16:39] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"117","locationid":"2","amount":"6"}
+[21-06-17 11:16:54] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"118","locationid":"2","amount":"12"}
+[21-06-17 11:17:07] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"119","locationid":"2","amount":"6"}
+[21-06-17 11:17:26] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"120","locationid":"2","amount":"6"}
+[21-06-17 11:17:39] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"121","locationid":"2","amount":"10"}
+[21-06-17 11:17:57] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"122","locationid":"2","amount":"4"}
+[21-06-17 11:18:14] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"123","locationid":"2","amount":"6"}
+[21-06-17 11:18:24] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"124","locationid":"2","amount":"6"}
+[21-06-17 11:18:34] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"125","locationid":"2","amount":"6"}
+[21-06-17 11:18:50] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"126","locationid":"2","amount":"1"}
+[21-06-17 11:19:03] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"127","locationid":"2","amount":"2"}
+[21-06-17 11:19:14] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"128","locationid":"2","amount":"6"}
+[21-06-17 11:19:28] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"129","locationid":"2","amount":"10"}
+[21-06-17 11:19:53] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"130","locationid":"2","amount":"6"}
+[21-06-17 11:20:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"131","locationid":"2","amount":"6"}
+[21-06-17 11:20:29] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"132","locationid":"2","amount":"3"}
+[21-06-17 11:20:44] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"133","locationid":"2","amount":"12"}
+[21-06-17 11:21:04] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"134","locationid":"2","amount":"6"}
+[21-06-17 11:21:14] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"135","locationid":"2","amount":"6"}
+[21-06-17 11:21:30] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"136","locationid":"2","amount":"3"}
+[21-06-17 11:21:42] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"137","locationid":"2","amount":"12"}
+[21-06-17 11:22:07] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"138","locationid":"2","amount":"3"}
+[21-06-17 11:22:20] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"139","locationid":"2","amount":"12"}
+[21-06-17 11:22:37] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"139","locationid":"2","amount":"12"}
+[21-06-17 11:22:45] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"140","locationid":"2","amount":"6"}
+[21-06-17 11:22:56] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"141","locationid":"2","amount":"10"}
+[21-06-17 11:23:12] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"142","locationid":"2","amount":"3"}
+[21-06-17 11:23:28] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"143","locationid":"2","amount":"10"}
+[21-06-17 11:23:49] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"144","locationid":"2","amount":"3"}
+[21-06-17 11:24:03] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"145","locationid":"2","amount":"12"}
+[21-06-17 11:24:27] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"146","locationid":"2","amount":"18"}
+[21-06-17 11:24:42] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"147","locationid":"2","amount":"20"}
+[21-06-17 11:24:58] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"148","locationid":"2","amount":"20"}
+[21-06-17 11:25:20] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"149","locationid":"2","amount":"20"}
+[21-06-17 11:25:40] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"150","locationid":"2","amount":"24"}
+[21-06-17 11:25:47] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"151","locationid":"2","amount":"24"}
+[21-06-17 11:25:55] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"152","locationid":"2","amount":"24"}
+[21-06-17 11:26:05] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"153","locationid":"2","amount":"24"}
+[21-06-17 11:26:18] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"154","locationid":"2","amount":"12"}
+[21-06-17 11:26:30] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"155","locationid":"2","amount":"24"}
+[21-06-17 11:26:43] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"156","locationid":"2","amount":"24"}
+[21-06-17 11:26:52] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"157","locationid":"2","amount":"24"}
+[21-06-17 11:27:06] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"158","locationid":"2","amount":"24"}
+[21-06-17 11:27:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"159","locationid":"2","amount":"24"}
+[21-06-17 11:27:40] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"160","locationid":"2","amount":"48"}
+[21-06-17 11:27:57] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"161","locationid":"2","amount":"24"}
+[21-06-17 11:28:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"161","locationid":"2","amount":"24"}
+[21-06-17 11:28:36] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"162","locationid":"2","amount":"46"}
+[21-06-17 11:28:54] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"163","locationid":"2","amount":"24"}
+[21-06-17 11:29:09] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"164","locationid":"2","amount":"24"}
+[21-06-17 11:29:17] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"165","locationid":"2","amount":"24"}
+[21-06-17 11:29:38] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"166","locationid":"2","amount":"24"}
+[21-06-17 11:29:51] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"167","locationid":"2","amount":"24"}
+[21-06-17 11:30:09] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"168","locationid":"2","amount":"80"}
+[21-06-17 11:30:16] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"169","locationid":"2","amount":"80"}
+[21-06-17 11:30:24] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"170","locationid":"2","amount":"80"}
+[21-06-17 11:30:33] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"171","locationid":"2","amount":"80"}
+[21-06-17 11:30:43] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"172","locationid":"2","amount":"24"}
+[21-06-17 11:30:51] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"173","locationid":"2","amount":"24"}
+[21-06-17 11:31:00] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"172","locationid":"2","amount":"24"}
+[21-06-17 11:31:21] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"174","locationid":"2","amount":"18"}
+[21-06-17 11:31:30] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"175","locationid":"2","amount":"20"}
+[21-06-17 11:31:39] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"176","locationid":"2","amount":"20"}
+[21-06-17 11:32:02] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"177","locationid":"2","amount":"24"}
+[21-06-17 11:32:23] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"178","locationid":"2","amount":"98"}
+[21-06-17 11:32:40] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"179","locationid":"2","amount":"12"}
+[21-06-17 11:37:47] (ITEM - 1:admin) Item added with id:180
+Data: {"code":"6161101602600","qty":"24","name":"PILSNER LAGER","alt_name":"","description":"","taxid":"1","cost":"160","price":"200","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[],"id":"180"}
+[21-06-17 11:38:29] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"180","locationid":"2","amount":"24"}
+[21-06-17 11:40:23] (ITEM - 1:admin) Item added with id:181
+Data: {"code":"5449000000286","qty":"6","name":"COCACOLA 2L","alt_name":"","description":"1L","taxid":"1","cost":"158","price":"200","wholesale_price":"0","supplierid":"5","categoryid":"10","type":"general","modifiers":[],"id":"181"}
+[21-06-17 11:41:35] (ITEM - 1:admin) Item added with id:182
+Data: {"code":"5449000028976","qty":"12","name":"SPRITE 1L","alt_name":"","description":"1L","taxid":"1","cost":"100","price":"120","wholesale_price":"0","supplierid":"5","categoryid":"10","type":"general","modifiers":[],"id":"182"}
+[21-06-17 11:42:49] (ITEM - 1:admin) Item updated with id:179
+Data: {"id":"179","code":"54491069","qty":"12","name":"SPRITE 500ML","alt_name":"","description":"500ML","taxid":"1","cost":"52.7","price":"80","wholesale_price":"0","supplierid":"5","categoryid":"10","type":"general","modifiers":[]}
+[21-06-17 11:56:38] (AUTH) Authentication successful for user:sales
+[21-06-17 11:56:57] (AUTH) Authentication successful for user:admin
+[21-06-17 11:57:36] (AUTH) Authentication successful for user:admin
+[21-06-17 12:11:13] (AUTH - 1:admin) Session renew failed for sales, token mismatch.
+[21-06-17 12:11:18] (AUTH - 1:admin) Session renew failed for sales, token mismatch.
+[21-06-17 12:34:20] (AUTH - 1:admin) Session renew failed for admin, token mismatch.
+[21-06-17 12:43:53] (AUTH) Authentication successful for user:admin
+[21-06-17 12:44:08] (AUTH) Authentication successful for user:sales
+[21-06-17 12:44:29] (AUTH) Authentication successful for user:admin
+[21-06-17 13:03:01] (AUTH - 1:admin) Authentication successful for user:admin
+[21-06-17 13:03:01] (SALE - 1:admin) Sale Processed with ref: 1623931378736-2-2512 (ID:58)
+Data: {"ref":"1623931378736-2-2512","userid":"1","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"280.00","subtotal":"380.00","total":"380.00","numitems":5,"processdt":1623931378736,"items":[{"ref":"a245b947","sitemid":"157","qty":1,"name":"REDBULL","unit":"180.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"180.00","desc":"250ML","cost":"130","unit_original":"180","alt_name":"","id":"64"},{"ref":"22c966a8","sitemid":"177","qty":4,"name":"LEMONADE LIME","unit":"50.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"LIME","cost":"37.5","unit_original":"50","alt_name":"","id":"65"}],"payments":[{"method":"cash","amount":"180.00","tender":"180.00","change":"0.00","id":"104","processdt":1623931378736},{"method":"cash","amount":"0.00","tender":"0.00","change":"0.00","id":"105","processdt":1623931378736},{"method":"cash","amount":"50.00","tender":"50.00","change":"0.00","id":"106","processdt":1623931378736},{"method":"cash","amount":"50.00","tender":"50.00","change":"0.00","id":"107","processdt":1623931378736},{"method":"cash","amount":"50.00","tender":"50.00","change":"0.00","id":"108","processdt":1623931378736},{"method":"cash","amount":"50.00","tender":"50.00","change":"0.00","id":"109","processdt":1623931378736}],"tax":"0.00","taxdata":{},"id":"58","dt":"2021-06-17 13:03:01","balance":0,"status":1}
+[21-06-17 13:09:39] (AUTH) Authentication successful for user:sales
+[21-06-17 13:09:45] (AUTH) Authentication successful for user:sales
+[21-06-17 13:56:10] (AUTH) Authentication successful for user:sales
+[21-06-17 13:56:16] (AUTH) Authentication successful for user:admin
+[21-06-17 13:58:19] (AUTH - 1:admin) Authentication successful for user:admin
+[21-06-17 13:58:19] (SALE - 1:admin) Sale Processed with ref: 1623934696274-2-1839 (ID:59)
+Data: {"ref":"1623934696274-2-1839","userid":"1","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"827.67","subtotal":"1130.00","total":"1130.00","numitems":3,"processdt":1623934696274,"items":[{"ref":"ac557352","sitemid":"105","qty":1,"name":"VAT 69 WHISKEY 350ML","unit":"850.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"850.00","desc":"750ML","cost":"656","unit_original":"850","alt_name":"","id":"66"},{"ref":"a47a905e","sitemid":"41","qty":1,"name":"HIGHLANDS 1LTR","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"100.00","desc":"1LTR","cost":"41.67","unit_original":"100","alt_name":"","id":"67"},{"ref":"34776adf","sitemid":"157","qty":1,"name":"REDBULL","unit":"180.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"180.00","desc":"250ML","cost":"130","unit_original":"180","alt_name":"","id":"68"}],"payments":[{"method":"cash","amount":"1130.00","tender":"1130.00","change":"0.00","id":"110","processdt":1623934696274},{"method":"cash","amount":"0.00","tender":"0.00","change":"0.00","id":"111","processdt":1623934696274}],"tax":"0.00","taxdata":{},"id":"59","dt":"2021-06-17 13:58:19","balance":0,"status":1}
+[21-06-17 14:10:38] (SALE - 1:admin) Sale Processed with ref: 1623935438275-2-8716 (ID:60)
+Data: {"ref":"1623935438275-2-8716","userid":"1","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"150.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623935438275,"items":[{"ref":"772ecdd6","sitemid":"158","qty":1,"name":"MONSTER","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"500ML","cost":"150","unit_original":"200","alt_name":"","id":"69"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"112","processdt":1623935438275}],"tax":"0.00","taxdata":{},"id":"60","dt":"2021-06-17 14:10:38","balance":0,"status":1}
+[21-06-17 14:29:43] (SALE - 1:admin) Sale Processed with ref: 1623936582320-2-7526 (ID:61)
+Data: {"ref":"1623936582320-2-7526","userid":"1","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"165.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623936582320,"items":[{"ref":"8d531b5f","sitemid":"161","qty":1,"name":"TUSKER CIDER CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"500ML","cost":"165","unit_original":"200","alt_name":"","id":"70"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"113","processdt":1623936582320}],"tax":"0.00","taxdata":{},"id":"61","dt":"2021-06-17 14:29:43","balance":0,"status":1}
+[21-06-17 14:59:28] (AUTH) Authentication successful for user:sales
+[21-06-17 15:00:43] (SALE - 3:sales) Sale Processed with ref: 1623938443200-2-7576 (ID:62)
+Data: {"ref":"1623938443200-2-7576","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"212.50","subtotal":"250.00","total":"250.00","numitems":2,"processdt":1623938443200,"items":[{"ref":"2f097092","sitemid":"177","qty":1,"name":"LEMONADE LIME","unit":"50.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"50.00","desc":"LIME","cost":"37.5","unit_original":"50","alt_name":"","id":"71"},{"ref":"43d7bac5","sitemid":"135","qty":1,"name":"KONYAGI 250ML","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"250ML","cost":"175","unit_original":"200","alt_name":"","id":"72"}],"payments":[{"method":"cash","amount":"250.00","tender":"250.00","change":"0.00","id":"114","processdt":1623938443200}],"tax":"0.00","taxdata":{},"id":"62","dt":"2021-06-17 15:00:43","balance":0,"status":1}
+[21-06-17 15:27:37] (AUTH) Authentication successful for user:sales
+[21-06-17 15:36:07] (SALE - 3:sales) Sale Processed with ref: 1623940566684-2-630 (ID:63)
+Data: {"ref":"1623940566684-2-630","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"13.50","subtotal":"350.00","total":"350.00","numitems":1,"processdt":1623940566684,"items":[{"ref":"0fafc997","sitemid":"168","qty":1,"name":"DUNHILL DOUBLE SWITCH","unit":"350.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"350.00","desc":"80PCS","cost":"13.5","unit_original":"350","alt_name":"","id":"73"}],"payments":[{"method":"cash","amount":"350.00","tender":"350.00","change":"0.00","id":"115","processdt":1623940566684}],"tax":"0.00","taxdata":{},"id":"63","dt":"2021-06-17 15:36:07","balance":0,"status":1}
+[21-06-17 15:37:37] (SALE - 3:sales) Sale Processed with ref: 1623940583923-2-8653 (ID:64)
+Data: {"ref":"1623940583923-2-8653","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"296.00","subtotal":"360.00","total":"360.00","numitems":2,"processdt":1623940583923,"items":[{"ref":"b635030a","sitemid":"167","qty":2,"name":"BALOZI CAN","unit":"180.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"360.00","desc":"500ML","cost":"148","unit_original":"180","alt_name":"","id":"74"}],"payments":[{"method":"cash","amount":"180.00","tender":"180.00","change":"0.00","id":"116","processdt":1623940583923},{"method":"cash","amount":"180.00","tender":"180.00","change":"0.00","id":"117","processdt":1623940583923}],"tax":"0.00","taxdata":{},"id":"64","dt":"2021-06-17 15:37:37","balance":0,"status":1}
+[21-06-17 15:38:29] (SALE - 3:sales) Sale Processed with ref: 1623940708674-2-9541 (ID:65)
+Data: {"ref":"1623940708674-2-9541","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"130.00","subtotal":"180.00","total":"180.00","numitems":1,"processdt":1623940708674,"items":[{"ref":"299c5bb0","sitemid":"157","qty":1,"name":"REDBULL","unit":"180.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"180.00","desc":"250ML","cost":"130","unit_original":"180","alt_name":"","id":"75"}],"payments":[{"method":"cash","amount":"180.00","tender":"180.00","change":"0.00","id":"118","processdt":1623940708674}],"tax":"0.00","taxdata":{},"id":"65","dt":"2021-06-17 15:38:29","balance":0,"status":1}
+[21-06-17 16:01:21] (SALE - 3:sales) Sale Processed with ref: 1623942080765-2-4148 (ID:66)
+Data: {"ref":"1623942080765-2-4148","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"175.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623942080765,"items":[{"ref":"80c2d48b","sitemid":"135","qty":1,"name":"KONYAGI 250ML","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"250ML","cost":"175","unit_original":"200","alt_name":"","id":"76"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"119","processdt":1623942080765}],"tax":"0.00","taxdata":{},"id":"66","dt":"2021-06-17 16:01:21","balance":0,"status":1}
+[21-06-17 16:04:10] (SALE - 3:sales) Sale Processed with ref: 1623942181597-2-39 (ID:67)
+Data: {"ref":"1623942181597-2-39","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"37.50","subtotal":"50.00","total":"50.00","numitems":1,"processdt":1623942181597,"items":[{"ref":"f2a2eced","sitemid":"177","qty":1,"name":"LEMONADE LIME","unit":"50.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"50.00","desc":"LIME","cost":"37.5","unit_original":"50","alt_name":"","id":"77"}],"payments":[{"method":"cash","amount":"50.00","tender":"50.00","change":"0.00","id":"120","processdt":1623942181597}],"tax":"0.00","taxdata":{},"id":"67","dt":"2021-06-17 16:04:10","balance":0,"status":1}
+[21-06-17 16:22:50] (SALE - 3:sales) Sale Processed with ref: 1623943368866-2-3848 (ID:68)
+Data: {"ref":"1623943368866-2-3848","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"1515.75","subtotal":"2000.00","total":"2000.00","numitems":10,"processdt":1623943368866,"items":[{"ref":"c680e40f","sitemid":"25","qty":6,"name":"SMIRNOFF BLACK ICE CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"1200.00","desc":"BLACK ICE","cost":"142.625","unit_original":"200","alt_name":"","id":"78"},{"ref":"17c280b8","sitemid":"166","qty":4,"name":"WHITE CAP CAN CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"800.00","desc":"500ML","cost":"165","unit_original":"200","alt_name":"","id":"79"}],"payments":[{"method":"cash","amount":"2000.00","tender":"2000.00","change":"0.00","id":"121","processdt":1623943368866}],"tax":"0.00","taxdata":{},"id":"68","dt":"2021-06-17 16:22:50","balance":0,"status":1}
+[21-06-17 16:28:11] (AUTH) Authentication successful for user:admin
+[21-06-17 16:29:14] (STOCK - 1:admin) Stock Level Set
+Data: {"storeditemid":"149","locationid":"2","amount":"20"}
+[21-06-17 16:32:26] (ITEM - 1:admin) Item added with id:183
+Data: {"code":"5449000139030","qty":"1","name":"KREST 500ML","alt_name":"","description":"500ML","taxid":"1","cost":"57.5","price":"80","wholesale_price":"0","supplierid":"5","categoryid":"10","type":"general","modifiers":[],"id":"183"}
+[21-06-17 16:35:10] (ITEM - 1:admin) Item updated with id:149
+Data: {"id":"149","code":"6164002435001","qty":"20","name":"TRIGGER 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"87.5","price":"100","wholesale_price":"0","supplierid":"3","categoryid":"6","type":"general","modifiers":[]}
+[21-06-17 16:35:33] (ITEM - 1:admin) Item updated with id:147
+Data: {"id":"147","code":"6164002438026","qty":"20","name":"FLYING HORSE","alt_name":"","description":"250ML","taxid":"1","cost":"92.5","price":"100","wholesale_price":"0","supplierid":"3","categoryid":"4","type":"general","modifiers":[]}
+[21-06-17 16:36:08] (ITEM - 1:admin) Item updated with id:148
+Data: {"id":"148","code":"6164002438484","qty":"20","name":"BLUE ICE 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"115","price":"130","wholesale_price":"0","supplierid":"3","categoryid":"15","type":"general","modifiers":[]}
+[21-06-17 16:36:54] (ITEM - 1:admin) Item updated with id:94
+Data: {"id":"94","code":"6161101604864","qty":"10","name":"TRIPPLE ACE 250ML","alt_name":"","description":"250ML","taxid":"1","cost":"147","price":"190","wholesale_price":"0","supplierid":"2","categoryid":"15","type":"general","modifiers":[]}
+[21-06-17 17:05:01] (AUTH) Authentication successful for user:sales
+[21-06-17 17:05:28] (SALE - 3:sales) Sale Processed with ref: 1623945927931-2-8926 (ID:69)
+Data: {"ref":"1623945927931-2-8926","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"145.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623945927931,"items":[{"ref":"4c96eb71","sitemid":"99","qty":1,"name":"COUNTY 250ML","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"250ML","cost":"145","unit_original":"200","alt_name":"","id":"80"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"122","processdt":1623945927931}],"tax":"0.00","taxdata":{},"id":"69","dt":"2021-06-17 17:05:28","balance":0,"status":1}
+[21-06-17 17:06:34] (SALE - 3:sales) Sale Processed with ref: 1623945993634-2-9691 (ID:70)
+Data: {"ref":"1623945993634-2-9691","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"175.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623945993634,"items":[{"ref":"4fc63b8d","sitemid":"135","qty":1,"name":"KONYAGI 250ML","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"250ML","cost":"175","unit_original":"200","alt_name":"","id":"81"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"123","processdt":1623945993634}],"tax":"0.00","taxdata":{},"id":"70","dt":"2021-06-17 17:06:34","balance":0,"status":1}
+[21-06-17 17:17:26] (SALE - 3:sales) Sale Processed with ref: 1623946645268-2-2232 (ID:71)
+Data: {"ref":"1623946645268-2-2232","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"640.00","subtotal":"700.00","total":"700.00","numitems":1,"processdt":1623946645268,"items":[{"ref":"167cee1a","sitemid":"54","qty":1,"name":"4TH STREET SWEET WHITE","unit":"700.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"700.00","desc":"SWEET WHITE","cost":"640","unit_original":"700","alt_name":"","id":"82"}],"payments":[{"method":"cash","amount":"700.00","tender":"700.00","change":"0.00","id":"124","processdt":1623946645268}],"tax":"0.00","taxdata":{},"id":"71","dt":"2021-06-17 17:17:26","balance":0,"status":1}
+[21-06-17 17:20:57] (AUTH) Authentication successful for user:admin
+[21-06-17 17:21:16] (AUTH - 3:sales) Authentication successful for user:sales
+[21-06-17 17:21:16] (SALE - 3:sales) Sale Processed with ref: 1623946873762-2-1153 (ID:72)
+Data: {"ref":"1623946873762-2-1153","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"720.00","subtotal":"850.00","total":"850.00","numitems":1,"processdt":1623946873762,"items":[{"ref":"6fe9bccb","sitemid":"131","qty":1,"name":"MacMOHAN","unit":"850.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"850.00","desc":"750ML","cost":"720","unit_original":"850","alt_name":"","id":"83"}],"payments":[{"method":"cash","amount":"850.00","tender":"850.00","change":"0.00","id":"125","processdt":1623946873762}],"tax":"0.00","taxdata":{},"id":"72","dt":"2021-06-17 17:21:16","balance":0,"status":1}
+[21-06-17 17:24:29] (AUTH) Authentication successful for user:admin
+[21-06-17 17:25:07] (ITEM - 1:admin) Item added with id:184
+Data: {"code":"5449000028921","qty":"24","name":"COKE 1.25L","alt_name":"","description":"COKE","taxid":"1","cost":"100","price":"120","wholesale_price":"0","supplierid":"5","categoryid":"10","type":"general","modifiers":[],"id":"184"}
+[21-06-17 17:25:32] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"184","locationid":"2","amount":"24"}
+[21-06-17 17:27:35] (ITEM - 1:admin) Item added with id:185
+Data: {"code":"6161101560108","qty":"6","name":"TOP SECRET","alt_name":"","description":"WHISKY 750ML","taxid":"1","cost":"630","price":"700","wholesale_price":"0","supplierid":"3","categoryid":"3","type":"general","modifiers":[],"id":"185"}
+[21-06-17 17:28:01] (STOCK - 1:admin) Stock Added
+Data: {"storeditemid":"185","locationid":"2","amount":"6"}
+[21-06-17 17:29:03] (AUTH - 3:sales) Authentication successful for user:sales
+[21-06-17 17:29:03] (SALE - 3:sales) Sale Processed with ref: 1623947340806-2-2942 (ID:73)
+Data: {"ref":"1623947340806-2-2942","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"1560.00","subtotal":"2050.00","total":"2050.00","numitems":5,"processdt":1623947340806,"items":[{"ref":"c5556469","sitemid":"118","qty":1,"name":"GILBEYS GIN 750ML","unit":"1250.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"1250.00","desc":"750ML","cost":"960","unit_original":"1250","alt_name":"","id":"84"},{"ref":"9bace59c","sitemid":"158","qty":4,"name":"MONSTER","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"800.00","desc":"500ML","cost":"150","unit_original":"200","alt_name":"","id":"85"}],"payments":[{"method":"cash","amount":"2050.00","tender":"2050.00","change":"0.00","id":"126","processdt":1623947340806}],"tax":"0.00","taxdata":{},"id":"73","dt":"2021-06-17 17:29:03","balance":0,"status":1}
+[21-06-17 17:31:07] (AUTH) Authentication successful for user:admin
+[21-06-17 17:36:25] (SALE - 3:sales) Sale Processed with ref: 1623947784962-2-243 (ID:74)
+Data: {"ref":"1623947784962-2-243","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"130.00","subtotal":"150.00","total":"150.00","numitems":1,"processdt":1623947784962,"items":[{"ref":"5a7f8907","sitemid":"60","qty":1,"name":"LIME JUICE","unit":"150.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"150.00","desc":"LIME","cost":"130","unit_original":"150","alt_name":"","id":"86"}],"payments":[{"method":"cash","amount":"150.00","tender":"150.00","change":"0.00","id":"127","processdt":1623947784962}],"tax":"0.00","taxdata":{},"id":"74","dt":"2021-06-17 17:36:25","balance":0,"status":1}
+[21-06-17 17:42:27] (ITEM - 1:admin) Item updated with id:24
+Data: {"id":"24","code":"6161101603324","qty":"96","name":"SMIRNOFF GUARANA","alt_name":"","description":"GUARANA","taxid":"1","cost":"142.625","price":"180","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[]}
+[21-06-17 17:42:52] (ITEM - 1:admin) Item updated with id:25
+Data: {"id":"25","code":"6161101604703","qty":"24","name":"SMIRNOFF BLACK ICE CAN","alt_name":"","description":"BLACK ICE","taxid":"1","cost":"142.625","price":"180","wholesale_price":"0","supplierid":"2","categoryid":"2","type":"general","modifiers":[]}
+[21-06-17 17:53:47] (SALE - 3:sales) Sale Processed with ref: 1623948826656-2-7120 (ID:75)
+Data: {"ref":"1623948826656-2-7120","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"1630.00","subtotal":"2000.00","total":"2000.00","numitems":6,"processdt":1623948826656,"items":[{"ref":"ec5b2534","sitemid":"120","qty":2,"name":"CHROME GIN 750ML","unit":"600.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"1200.00","desc":"750ML","cost":"480","unit_original":"600","alt_name":"","id":"87"},{"ref":"6e7655b1","sitemid":"161","qty":2,"name":"TUSKER CIDER CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"400.00","desc":"500ML","cost":"165","unit_original":"200","alt_name":"","id":"88"},{"ref":"98e81fcb","sitemid":"61","qty":1,"name":"LIME JUICE 1.5LTR","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"LIME","cost":"190","unit_original":"200","alt_name":"","id":"89"},{"ref":"7bb14dd1","sitemid":"158","qty":1,"name":"MONSTER","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"500ML","cost":"150","unit_original":"200","alt_name":"","id":"90"}],"payments":[{"method":"cash","amount":"2000.00","tender":"2000.00","change":"0.00","id":"128","processdt":1623948826656}],"tax":"0.00","taxdata":{},"id":"75","dt":"2021-06-17 17:53:47","balance":0,"status":1}
+[21-06-17 18:00:08] (ITEM - 1:admin) Item updated with id:20
+Data: {"id":"20","code":"5000289020701","qty":"1","name":"GORDONS DRY GIN","alt_name":"","description":"LONDON DRY GIN","taxid":"1","cost":"1750","price":"2100","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[]}
+[21-06-17 18:00:26] (AUTH) Authentication successful for user:sales
+[21-06-17 18:00:43] (SALE - 3:sales) Sale Processed with ref: 1623949242405-2-7524 (ID:76)
+Data: {"ref":"1623949242405-2-7524","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"1750.00","subtotal":"2100.00","total":"2100.00","numitems":1,"processdt":1623949242405,"items":[{"ref":"e1dfb571","sitemid":"20","qty":1,"name":"GORDONS DRY GIN","unit":"2100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"2100.00","desc":"LONDON DRY GIN","cost":"1750","unit_original":"2100","alt_name":"","id":"91"}],"payments":[{"method":"cash","amount":"2100.00","tender":"2100.00","change":"0.00","id":"129","processdt":1623949242405}],"tax":"0.00","taxdata":{},"id":"76","dt":"2021-06-17 18:00:43","balance":0,"status":1}
+[21-06-17 18:06:14] (ITEM - 1:admin) Item updated with id:20
+Data: {"id":"20","code":"5000289020701","qty":"1","name":"GORDONS DRY GIN","alt_name":"","description":"LONDON DRY GIN","taxid":"1","cost":"1360","price":"1730","wholesale_price":"0","supplierid":"2","categoryid":"4","type":"general","modifiers":[]}
+[21-06-17 18:06:31] (AUTH) Authentication successful for user:sales
+[21-06-17 18:08:04] (SALE - 3:sales) Sale Processed with ref: 1623949682921-2-7606 (ID:77)
+Data: {"ref":"1623949682921-2-7606","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"1360.00","subtotal":"1730.00","total":"1730.00","numitems":1,"processdt":1623949682921,"items":[{"ref":"debf5126","sitemid":"20","qty":1,"name":"GORDONS DRY GIN","unit":"1730.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"1730.00","desc":"LONDON DRY GIN","cost":"1360","unit_original":"1730","alt_name":"","id":"92"}],"payments":[{"method":"cash","amount":"1730.00","tender":"1730.00","change":"0.00","id":"130","processdt":1623949682921}],"tax":"0.00","taxdata":{},"id":"77","dt":"2021-06-17 18:08:04","balance":0,"status":1}
+[21-06-17 18:12:18] (SALE - 3:sales) Sale Processed with ref: 1623949937414-2-9705 (ID:78)
+Data: {"ref":"1623949937414-2-9705","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"312.00","subtotal":"400.00","total":"400.00","numitems":2,"processdt":1623949937414,"items":[{"ref":"88d88f89","sitemid":"163","qty":2,"name":"GUINESS SMOOTH CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"400.00","desc":"500ML","cost":"156","unit_original":"200","alt_name":"","id":"93"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"131","processdt":1623949937414},{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"132","processdt":1623949937414}],"tax":"0.00","taxdata":{},"id":"78","dt":"2021-06-17 18:12:18","balance":0,"status":1}
+[21-06-17 18:14:09] (SALE - 3:sales) Sale Processed with ref: 1623950048485-2-7044 (ID:79)
+Data: {"ref":"1623950048485-2-7044","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"37.50","subtotal":"50.00","total":"50.00","numitems":1,"processdt":1623950048485,"items":[{"ref":"a19df56a","sitemid":"177","qty":1,"name":"LEMONADE LIME","unit":"50.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"50.00","desc":"LIME","cost":"37.5","unit_original":"50","alt_name":"","id":"94"}],"payments":[{"method":"cash","amount":"50.00","tender":"50.00","change":"0.00","id":"133","processdt":1623950048485}],"tax":"0.00","taxdata":{},"id":"79","dt":"2021-06-17 18:14:09","balance":0,"status":1}
+[21-06-17 18:18:14] (SALE - 3:sales) Sale Processed with ref: 1623950292819-2-9139 (ID:80)
+Data: {"ref":"1623950292819-2-9139","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"165.00","subtotal":"200.00","total":"200.00","numitems":1,"processdt":1623950292819,"items":[{"ref":"b6bd467d","sitemid":"161","qty":1,"name":"TUSKER CIDER CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"200.00","desc":"500ML","cost":"165","unit_original":"200","alt_name":"","id":"95"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"134","processdt":1623950292819}],"tax":"0.00","taxdata":{},"id":"80","dt":"2021-06-17 18:18:14","balance":0,"status":1}
+[21-06-17 18:31:50] (AUTH) Authentication successful for user:sales
+[21-06-17 18:34:50] (SALE - 3:sales) Sale Processed with ref: 1623951289530-2-4596 (ID:81)
+Data: {"ref":"1623951289530-2-4596","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"99.17","subtotal":"180.00","total":"180.00","numitems":2,"processdt":1623951289530,"items":[{"ref":"16072ca1","sitemid":"183","qty":1,"name":"KREST 500ML","unit":"80.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"80.00","desc":"500ML","cost":"57.5","unit_original":"80","alt_name":"","id":"96"},{"ref":"23670f34","sitemid":"41","qty":1,"name":"HIGHLANDS 1LTR","unit":"100.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"100.00","desc":"1LTR","cost":"41.67","unit_original":"100","alt_name":"","id":"97"}],"payments":[{"method":"cash","amount":"180.00","tender":"180.00","change":"0.00","id":"135","processdt":1623951289530}],"tax":"0.00","taxdata":{},"id":"81","dt":"2021-06-17 18:34:50","balance":0,"status":1}
+[21-06-17 19:05:48] (SALE - 3:sales) Sale Processed with ref: 1623953146408-2-3837 (ID:82)
+Data: {"ref":"1623953146408-2-3837","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"312.00","subtotal":"400.00","total":"400.00","numitems":2,"processdt":1623953146408,"items":[{"ref":"bb171da6","sitemid":"160","qty":2,"name":"TUSKER LAGER CAN","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"400.00","desc":"500ML","cost":"156","unit_original":"200","alt_name":"","id":"98"}],"payments":[{"method":"cash","amount":"400.00","tender":"400.00","change":"0.00","id":"136","processdt":1623953146408}],"tax":"0.00","taxdata":{},"id":"82","dt":"2021-06-17 19:05:48","balance":0,"status":1}
+[21-06-17 19:07:31] (SALE - 3:sales) Sale Processed with ref: 1623953250320-2-45 (ID:83)
+Data: {"ref":"1623953250320-2-45","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"325.00","subtotal":"400.00","total":"400.00","numitems":2,"processdt":1623953250320,"items":[{"ref":"67ee84f7","sitemid":"159","qty":2,"name":"FAXE","unit":"200.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"400.00","desc":"500ML","cost":"162.5","unit_original":"200","alt_name":"","id":"99"}],"payments":[{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"137","processdt":1623953250320},{"method":"cash","amount":"200.00","tender":"200.00","change":"0.00","id":"138","processdt":1623953250320}],"tax":"0.00","taxdata":{},"id":"83","dt":"2021-06-17 19:07:31","balance":0,"status":1}
+[21-06-17 19:24:56] (AUTH) Authentication successful for user:admin
+[21-06-17 19:30:22] (SALE - 3:sales) Sale Processed with ref: 1623954620699-2-8240 (ID:84)
+Data: {"ref":"1623954620699-2-8240","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"960.00","subtotal":"1250.00","total":"1250.00","numitems":1,"processdt":1623954620699,"items":[{"ref":"ecd82464","sitemid":"118","qty":1,"name":"GILBEYS GIN 750ML","unit":"1250.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"1250.00","desc":"750ML","cost":"960","unit_original":"1250","alt_name":"","id":"100"}],"payments":[{"method":"credit","amount":"1250.00","id":"139","processdt":1623954620699},{"method":"cash","amount":"0.00","tender":"0.00","change":"0.00","id":"140","processdt":1623954620699},{"method":"credit","amount":"0.00","id":"141","processdt":1623954620699}],"tax":"0.00","taxdata":{},"id":"84","dt":"2021-06-17 19:30:22","balance":0,"status":1}
+[21-06-17 19:41:04] (SALE - 3:sales) Sale Processed with ref: 1623955262901-2-5922 (ID:85)
+Data: {"ref":"1623955262901-2-5922","userid":"3","devid":"2","locid":"2","custid":"0","custemail":"","notes":"","discount":"0","rounding":"0.00","cost":"545.00","subtotal":"700.00","total":"700.00","numitems":1,"processdt":1623955262901,"items":[{"ref":"8f3a7ee5","sitemid":"49","qty":1,"name":"CAPRICE SWEET RED","unit":"700.00","taxid":"1","tax":{"total":0,"values":{},"inclusive":true},"price":"700.00","desc":"SWEETRED","cost":"545","unit_original":"700","alt_name":"","id":"101"}],"payments":[{"method":"cash","amount":"700.00","tender":"700.00","change":"0.00","id":"142","processdt":1623955262901}],"tax":"0.00","taxdata":{},"id":"85","dt":"2021-06-17 19:41:04","balance":0,"status":1}
+[21-06-17 20:13:49] (AUTH - 3:sales) Authentication successful for user:sales
+[21-06-17 20:13:50] (VOID - 3:sales) Sale voided with ref: 1623949242405-2-7524 (ID:76)
+Data: {"userid":"3","deviceid":"2","locationid":"2","processdt":1623957228020,"reason":"NULL"}
